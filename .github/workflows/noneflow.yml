@@ -37,7 +37,7 @@ jobs:
           key: noneflow-${{ runner.os }}-${{ hashFiles('.pre-commit-config.yaml') }}
 
       - name: NoneFlow
-        uses: docker://ghcr.io/nonebot/noneflow:latest
+        uses: docker://ghcr.io/nonebot/noneflow:main
         with:
           config: >
             {
