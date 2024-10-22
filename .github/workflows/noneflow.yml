@@ -51,6 +51,7 @@ jobs:
           APP_ID: ${{ secrets.APP_ID }}
           PRIVATE_KEY: ${{ secrets.APP_KEY }}
           PRE_COMMIT_HOME: /github/workspace/.cache/.pre-commit
+          DOCKER_IMAGES_VERSION: main
 
       - name: Fix permission
         run: sudo chown -R $(whoami):$(id -ng) .cache/.pre-commit
