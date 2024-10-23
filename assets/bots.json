@@ -145,7 +145,7 @@
   {
     "name": "LiteyukiBot-轻雪机器人",
     "desc": "一个有各种琐事功能的bot，有AI接口，能陪聊",
-    "author": "snowyfirefly",
+    "author_id": 79104275,
     "homepage": "https://github.com/snowyfirefly/Liteyuki",
     "tags": [
       {
@@ -289,7 +289,7 @@
   {
     "name": "RanBot",
     "desc": "不@会很安静的Bot",
-    "author": "IAXRetailer",
+    "author_id": 88923783,
     "homepage": "https://github.com/Hecatia-Hell-Workshop/RanBot",
     "tags": [],
     "is_official": false
@@ -318,7 +318,7 @@
   {
     "name": "SuzunoBot",
     "desc": "多功能音游bot，主要服务maimaiDX、Arcaea",
-    "author": "Rinfair-CSP-A016",
+    "author_id": 29980586,
     "homepage": "https://github.com/Rinfair-CSP-A016/SuzunoBot-AGLAS",
     "tags": [
       {
@@ -465,7 +465,7 @@
   {
     "name": "ay机器人",
     "desc": "codeforces和洛谷卷王监视、股票监控、ai聊天",
-    "author": "863109569",
+    "author_id": 77315378,
     "homepage": "https://github.com/863109569/qqbot",
     "tags": [
       {
@@ -499,7 +499,7 @@
   {
     "name": "ReimeiBot-黎明机器人",
     "desc": "流星飞逝，黎明终将到来。",
-    "author": "ThirdBlood",
+    "author_id": 65395090,
     "homepage": "https://github.com/3rdBit/ReimeiBot",
     "tags": [],
     "is_official": false
@@ -520,7 +520,7 @@
   {
     "name": "林汐",
     "desc": "多平台功能型Bot",
-    "author": "mute23-code",
+    "author_id": 110453675,
     "homepage": "https://github.com/netsora/SoraBot",
     "tags": [
       {
