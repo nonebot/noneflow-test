@@ -1,5 +1,5 @@
-[
-  {
+{
+  "nonebot-plugin-status:nonebot_plugin_status": {
     "module_name": "nonebot_plugin_status",
     "project_link": "nonebot-plugin-status",
     "author_id": 42488585,
@@ -11,7 +11,7 @@
     ],
     "is_official": true
   },
-  {
+  "haruka-bot:haruka_bot": {
     "module_name": "haruka_bot",
     "project_link": "haruka-bot",
     "author_id": 36433929,
@@ -23,7 +23,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-rauthman:nonebot_plugin_rauthman": {
     "module_name": "nonebot_plugin_rauthman",
     "project_link": "nonebot-plugin-rauthman",
     "author_id": 59906398,
@@ -35,14 +35,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-docs:nonebot_plugin_docs": {
     "module_name": "nonebot_plugin_docs",
     "project_link": "nonebot-plugin-docs",
     "author_id": 63496654,
     "tags": [],
     "is_official": true
   },
-  {
+  "nonebot-plugin-sentry:nonebot_plugin_sentry": {
     "module_name": "nonebot_plugin_sentry",
     "project_link": "nonebot-plugin-sentry",
     "author_id": 42488585,
@@ -54,28 +54,28 @@
     ],
     "is_official": true
   },
-  {
+  "nonebot-plugin-apscheduler:nonebot_plugin_apscheduler": {
     "module_name": "nonebot_plugin_apscheduler",
     "project_link": "nonebot-plugin-apscheduler",
     "author_id": 42488585,
     "tags": [],
     "is_official": true
   },
-  {
+  "nonebot-plugin-picsearcher:nonebot_plugin_picsearcher": {
     "module_name": "nonebot_plugin_picsearcher",
     "project_link": "nonebot-plugin-picsearcher",
     "author_id": 50922489,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-navicat:nonebot_plugin_navicat": {
     "module_name": "nonebot_plugin_navicat",
     "project_link": "nonebot-plugin-navicat",
     "author_id": 50922489,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-translator:nonebot_plugin_translator": {
     "module_name": "nonebot_plugin_translator",
     "project_link": "nonebot-plugin-translator",
     "author_id": 59906398,
@@ -87,35 +87,35 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mqtt:nonebot_plugin_mqtt": {
     "module_name": "nonebot_plugin_mqtt",
     "project_link": "nonebot-plugin-mqtt",
     "author_id": 50922489,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-songpicker2:nonebot_plugin_songpicker2": {
     "module_name": "nonebot_plugin_songpicker2",
     "project_link": "nonebot-plugin-songpicker2",
     "author_id": 20412597,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-strman:nonebot_plugin_strman": {
     "module_name": "nonebot_plugin_strman",
     "project_link": "nonebot-plugin-strman",
     "author_id": 95678113,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-bison:nonebot_bison": {
     "module_name": "nonebot_bison",
     "project_link": "nonebot-bison",
     "author_id": 23295345,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ncm:nonebot-plugin-ncm": {
     "module_name": "nonebot-plugin-ncm",
     "project_link": "nonebot-plugin-ncm",
     "author_id": 68675068,
@@ -127,49 +127,49 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-cocdicer:nonebot_plugin_cocdicer": {
     "module_name": "nonebot_plugin_cocdicer",
     "project_link": "nonebot-plugin-cocdicer",
     "author_id": 18395948,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-guess:nonebot_plugin_guess": {
     "module_name": "nonebot_plugin_guess",
     "project_link": "nonebot-plugin-guess",
     "author_id": 52522252,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-abbrreply:nonebot_plugin_abbrreply": {
     "module_name": "nonebot_plugin_abbrreply",
     "project_link": "nonebot-plugin-abbrreply",
     "author_id": 49887895,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-biliav:nonebot_plugin_biliav": {
     "module_name": "nonebot_plugin_biliav",
     "project_link": "nonebot-plugin-biliav",
     "author_id": 9247530,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-analysis-bilibili:nonebot_plugin_analysis_bilibili": {
     "module_name": "nonebot_plugin_analysis_bilibili",
     "project_link": "nonebot-plugin-analysis-bilibili",
     "author_id": 36481080,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-localstore:nonebot_plugin_localstore": {
     "module_name": "nonebot_plugin_localstore",
     "project_link": "nonebot-plugin-localstore",
     "author_id": 42488585,
     "tags": [],
     "is_official": true
   },
-  {
+  "nonebot-plugin-alconna:nonebot_plugin_alconna": {
     "module_name": "nonebot_plugin_alconna",
     "project_link": "nonebot-plugin-alconna",
     "author_id": 42648639,
@@ -189,7 +189,7 @@
     ],
     "is_official": true
   },
-  {
+  "nonebot-plugin-mcstatus:nonebot_plugin_mcstatus": {
     "module_name": "nonebot_plugin_mcstatus",
     "project_link": "nonebot-plugin-mcstatus",
     "author_id": 50312681,
@@ -201,119 +201,119 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-help:nonebot_plugin_help": {
     "module_name": "nonebot_plugin_help",
     "project_link": "nonebot-plugin-help",
     "author_id": 41534161,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-alias:nonebot_plugin_alias": {
     "module_name": "nonebot_plugin_alias",
     "project_link": "nonebot-plugin-alias",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-withdraw:nonebot_plugin_withdraw": {
     "module_name": "nonebot_plugin_withdraw",
     "project_link": "nonebot-plugin-withdraw",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-pixivrank-search:nonebot_plugin_pixivrank_search": {
     "module_name": "nonebot_plugin_pixivrank_search",
     "project_link": "nonebot-plugin-pixivrank-search",
     "author_id": 45528451,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-russian:nonebot_plugin_russian": {
     "module_name": "nonebot_plugin_russian",
     "project_link": "nonebot-plugin-russian",
     "author_id": 45528451,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-setu:nonebot_plugin_setu": {
     "module_name": "nonebot_plugin_setu",
     "project_link": "nonebot-plugin-setu",
     "author_id": 63199041,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-heweather:nonebot_plugin_heweather": {
     "module_name": "nonebot_plugin_heweather",
     "project_link": "nonebot-plugin-heweather",
     "author_id": 71873002,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-autohelp:nonebot_plugin_autohelp": {
     "module_name": "nonebot_plugin_autohelp",
     "project_link": "nonebot-plugin-autohelp",
     "author_id": 52522252,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-flexperm:nonebot_plugin_flexperm": {
     "module_name": "nonebot_plugin_flexperm",
     "project_link": "nonebot-plugin-flexperm",
     "author_id": 13314764,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-epicfree:nonebot_plugin_epicfree": {
     "module_name": "nonebot_plugin_epicfree",
     "project_link": "nonebot-plugin-epicfree",
     "author_id": 22407052,
     "tags": [],
     "is_official": false
   },
-  {
+  "ELF-RSS:ELF_RSS2": {
     "module_name": "ELF_RSS2",
     "project_link": "ELF-RSS",
     "author_id": 32663291,
     "tags": [],
     "is_official": false
   },
-  {
+  "nb2chan:nb2chan": {
     "module_name": "nb2chan",
     "project_link": "nb2chan",
     "author_id": 16970614,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-setu-now:nonebot_plugin_setu_now": {
     "module_name": "nonebot_plugin_setu_now",
     "project_link": "nonebot-plugin-setu-now",
     "author_id": 71873002,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-leetcode:leetcode": {
     "module_name": "leetcode",
     "project_link": "nonebot-plugin-leetcode",
     "author_id": 32358438,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-youthstudy:nonebot_plugin_youthstudy": {
     "module_name": "nonebot_plugin_youthstudy",
     "project_link": "nonebot-plugin-youthstudy",
     "author_id": 63199041,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-shindan:nonebot_plugin_shindan": {
     "module_name": "nonebot_plugin_shindan",
     "project_link": "nonebot-plugin-shindan",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-code:nonebot_plugin_code": {
     "module_name": "nonebot_plugin_code",
     "project_link": "nonebot-plugin-code",
     "author_id": 51691024,
@@ -325,28 +325,28 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-picsbank:nonebot_plugin_picsbank": {
     "module_name": "nonebot_plugin_picsbank",
     "project_link": "nonebot-plugin-picsbank",
     "author_id": 35657483,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-tvseries:nonebot_plugin_tvseries": {
     "module_name": "nonebot_plugin_tvseries",
     "project_link": "nonebot-plugin-tvseries",
     "author_id": 71873002,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-lolmatch:nonebot_plugin_lolmatch": {
     "module_name": "nonebot_plugin_lolmatch",
     "project_link": "nonebot-plugin-lolmatch",
     "author_id": 35657483,
     "tags": [],
     "is_official": false
   },
-  {
+  "olivos.nb2:OlivOS.nonebot": {
     "module_name": "OlivOS.nonebot",
     "project_link": "olivos.nb2",
     "author_id": 50312681,
@@ -358,49 +358,49 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-htmlrender:nonebot_plugin_htmlrender": {
     "module_name": "nonebot_plugin_htmlrender",
     "project_link": "nonebot-plugin-htmlrender",
     "author_id": 71873002,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-admin:nonebot_plugin_admin": {
     "module_name": "nonebot_plugin_admin",
     "project_link": "nonebot-plugin-admin",
     "author_id": 51691024,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-memes:nonebot_plugin_memes": {
     "module_name": "nonebot_plugin_memes",
     "project_link": "nonebot-plugin-memes",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-repeater:nonebot_plugin_repeater": {
     "module_name": "nonebot_plugin_repeater",
     "project_link": "nonebot-plugin-repeater",
     "author_id": 29861280,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-directlinker:nonebot_plugin_directlinker": {
     "module_name": "nonebot_plugin_directlinker",
     "project_link": "nonebot-plugin-directlinker",
     "author_id": 29861280,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-forwarder:nonebot_plugin_forwarder": {
     "module_name": "nonebot_plugin_forwarder",
     "project_link": "nonebot-plugin-forwarder",
     "author_id": 29861280,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-roll:nonebot_plugin_roll": {
     "module_name": "nonebot_plugin_roll",
     "project_link": "nonebot-plugin-roll",
     "author_id": 69038090,
@@ -412,7 +412,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-crazy-thursday:nonebot_plugin_crazy_thursday": {
     "module_name": "nonebot_plugin_crazy_thursday",
     "project_link": "nonebot-plugin-crazy-thursday",
     "author_id": 69038090,
@@ -424,21 +424,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-covid19-news:nonebot_plugin_covid19_news": {
     "module_name": "nonebot_plugin_covid19_news",
     "project_link": "nonebot-plugin-covid19-news",
     "author_id": 57753690,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-remake:nonebot_plugin_remake": {
     "module_name": "nonebot_plugin_remake",
     "project_link": "nonebot-plugin-remake",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-weather-lite:nonebot_plugin_weather_lite": {
     "module_name": "nonebot_plugin_weather_lite",
     "project_link": "nonebot-plugin-weather-lite",
     "author_id": 57033359,
@@ -450,7 +450,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-fortune:nonebot_plugin_fortune": {
     "module_name": "nonebot_plugin_fortune",
     "project_link": "nonebot-plugin-fortune",
     "author_id": 69038090,
@@ -462,7 +462,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-tarot:nonebot_plugin_tarot": {
     "module_name": "nonebot_plugin_tarot",
     "project_link": "nonebot-plugin-tarot",
     "author_id": 69038090,
@@ -474,7 +474,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-emojimix:nonebot_plugin_emojimix": {
     "module_name": "nonebot_plugin_emojimix",
     "project_link": "nonebot-plugin-emojimix",
     "author_id": 33149974,
@@ -486,7 +486,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-what2eat:nonebot_plugin_what2eat": {
     "module_name": "nonebot_plugin_what2eat",
     "project_link": "nonebot-plugin-what2eat",
     "author_id": 69038090,
@@ -498,42 +498,42 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-datastore:nonebot_plugin_datastore": {
     "module_name": "nonebot_plugin_datastore",
     "project_link": "nonebot-plugin-datastore",
     "author_id": 5219550,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-boardgame:nonebot_plugin_boardgame": {
     "module_name": "nonebot_plugin_boardgame",
     "project_link": "nonebot-plugin-boardgame",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wordcloud:nonebot_plugin_wordcloud": {
     "module_name": "nonebot_plugin_wordcloud",
     "project_link": "nonebot-plugin-wordcloud",
     "author_id": 5219550,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-chatrecorder:nonebot_plugin_chatrecorder": {
     "module_name": "nonebot_plugin_chatrecorder",
     "project_link": "nonebot-plugin-chatrecorder",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-antiflash:nonebot_plugin_antiflash": {
     "module_name": "nonebot_plugin_antiflash",
     "project_link": "nonebot-plugin-antiflash",
     "author_id": 69038090,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-word-bank2:nonebot_plugin_word_bank2": {
     "module_name": "nonebot_plugin_word_bank2",
     "project_link": "nonebot-plugin-word-bank2",
     "author_id": 71873002,
@@ -545,14 +545,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-txt2img:nonebot_plugin_txt2img": {
     "module_name": "nonebot_plugin_txt2img",
     "project_link": "nonebot-plugin-txt2img",
     "author_id": 44370805,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-morning:nonebot_plugin_morning": {
     "module_name": "nonebot_plugin_morning",
     "project_link": "nonebot-plugin-morning",
     "author_id": 69038090,
@@ -564,7 +564,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-pixiv:nonebot_plugin_pixiv": {
     "module_name": "nonebot_plugin_pixiv",
     "project_link": "nonebot-plugin-pixiv",
     "author_id": 49887895,
@@ -580,14 +580,14 @@
     ],
     "is_official": false
   },
-  {
+  "yetanotherpicsearch:YetAnotherPicSearch": {
     "module_name": "YetAnotherPicSearch",
     "project_link": "yetanotherpicsearch",
     "author_id": 23137034,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gachalogs:nonebot_plugin_gachalogs": {
     "module_name": "nonebot_plugin_gachalogs",
     "project_link": "nonebot-plugin-gachalogs",
     "author_id": 22407052,
@@ -599,7 +599,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-everyday-en:nonebot_plugin_everyday_en": {
     "module_name": "nonebot_plugin_everyday_en",
     "project_link": "nonebot-plugin-everyday-en",
     "author_id": 81250368,
@@ -611,14 +611,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-fire:nonebot_plugin_fire": {
     "module_name": "nonebot_plugin_fire",
     "project_link": "nonebot-plugin-fire",
     "author_id": 45707511,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-qrcode:nonebot_plugin_qrcode": {
     "module_name": "nonebot_plugin_qrcode",
     "project_link": "nonebot-plugin-qrcode",
     "author_id": 71873002,
@@ -630,7 +630,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ygo:nonebot_plugin_ygo": {
     "module_name": "nonebot_plugin_ygo",
     "project_link": "nonebot-plugin-ygo",
     "author_id": 49887895,
@@ -650,7 +650,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bilibilibot:nonebot_plugin_bilibilibot": {
     "module_name": "nonebot_plugin_bilibilibot",
     "project_link": "nonebot-plugin-bilibilibot",
     "author_id": 54183084,
@@ -662,21 +662,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-color:nonebot_plugin_color": {
     "module_name": "nonebot_plugin_color",
     "project_link": "nonebot-plugin-color",
     "author_id": 22407052,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-blackjack:nonebot_plugin_blackjack": {
     "module_name": "nonebot_plugin_blackjack",
     "project_link": "nonebot-plugin-blackjack",
     "author_id": 30517062,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-arcaeabot:nonebot_plugin_arcaeabot": {
     "module_name": "nonebot_plugin_arcaeabot",
     "project_link": "nonebot-plugin-arcaeabot",
     "author_id": 9484642,
@@ -688,21 +688,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ddcheck:nonebot_plugin_ddcheck": {
     "module_name": "nonebot_plugin_ddcheck",
     "project_link": "nonebot-plugin-ddcheck",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-leetcode2:nonebot_plugin_leetcode2": {
     "module_name": "nonebot_plugin_leetcode2",
     "project_link": "nonebot-plugin-leetcode2",
     "author_id": 30568146,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mediawiki:nonebot_plugin_mediawiki": {
     "module_name": "nonebot_plugin_mediawiki",
     "project_link": "nonebot-plugin-mediawiki",
     "author_id": 68314080,
@@ -714,28 +714,28 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wordle:nonebot_plugin_wordle": {
     "module_name": "nonebot_plugin_wordle",
     "project_link": "nonebot-plugin-wordle",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-giyf:nonebot_plugin_giyf": {
     "module_name": "nonebot_plugin_giyf",
     "project_link": "nonebot-plugin-giyf",
     "author_id": 68314080,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-abstract:nonebot_plugin_abstract": {
     "module_name": "nonebot_plugin_abstract",
     "project_link": "nonebot-plugin-abstract",
     "author_id": 98074861,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-params:nonebot_plugin_params": {
     "module_name": "nonebot_plugin_params",
     "project_link": "nonebot-plugin-params",
     "author_id": 48091591,
@@ -747,28 +747,28 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-handle:nonebot_plugin_handle": {
     "module_name": "nonebot_plugin_handle",
     "project_link": "nonebot-plugin-handle",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-minesweeper:nonebot_plugin_minesweeper": {
     "module_name": "nonebot_plugin_minesweeper",
     "project_link": "nonebot-plugin-minesweeper",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot_plugin_draw:nonebot_plugin_draw": {
     "module_name": "nonebot_plugin_draw",
     "project_link": "nonebot_plugin_draw",
     "author_id": 98812723,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-randomtkk:nonebot_plugin_randomtkk": {
     "module_name": "nonebot_plugin_randomtkk",
     "project_link": "nonebot-plugin-randomtkk",
     "author_id": 69038090,
@@ -784,7 +784,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-dida:nonebot_plugin_dida": {
     "module_name": "nonebot_plugin_dida",
     "project_link": "nonebot-plugin-dida",
     "author_id": 54183084,
@@ -796,49 +796,49 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-alipayvoice:nonebot_plugin_alipayvoice": {
     "module_name": "nonebot_plugin_alipayvoice",
     "project_link": "nonebot-plugin-alipayvoice",
     "author_id": 66513481,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-answersbook:nonebot_plugin_answersbook": {
     "module_name": "nonebot_plugin_answersbook",
     "project_link": "nonebot-plugin-answersbook",
     "author_id": 66513481,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-hitokoto:nonebot_plugin_hitokoto": {
     "module_name": "nonebot_plugin_hitokoto",
     "project_link": "nonebot-plugin-hitokoto",
     "author_id": 66513481,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bilicover:nonebot_plugin_bilicover": {
     "module_name": "nonebot_plugin_bilicover",
     "project_link": "nonebot-plugin-bilicover",
     "author_id": 66513481,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-cchess:nonebot_plugin_cchess": {
     "module_name": "nonebot_plugin_cchess",
     "project_link": "nonebot-plugin-cchess",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-chess:nonebot_plugin_chess": {
     "module_name": "nonebot_plugin_chess",
     "project_link": "nonebot-plugin-chess",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-charpic:nonebot_plugin_charpic": {
     "module_name": "nonebot_plugin_charpic",
     "project_link": "nonebot-plugin-charpic",
     "author_id": 66518048,
@@ -854,7 +854,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-miragetank:nonebot_plugin_miragetank": {
     "module_name": "nonebot_plugin_miragetank",
     "project_link": "nonebot-plugin-miragetank",
     "author_id": 66518048,
@@ -870,77 +870,77 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-yulu:nonebot_plugin_yulu": {
     "module_name": "nonebot_plugin_yulu",
     "project_link": "nonebot-plugin-yulu",
     "author_id": 99388013,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-maze:nonebot_plugin_maze": {
     "module_name": "nonebot_plugin_maze",
     "project_link": "nonebot-plugin-maze",
     "author_id": 100039483,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-moyu:nonebot_plugin_moyu": {
     "module_name": "nonebot_plugin_moyu",
     "project_link": "nonebot-plugin-moyu",
     "author_id": 66513481,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mockingbird:nonebot_plugin_mockingbird": {
     "module_name": "nonebot_plugin_mockingbird",
     "project_link": "nonebot-plugin-mockingbird",
     "author_id": 55268546,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-baidutranslate:nonebot_plugin_baidutranslate": {
     "module_name": "nonebot_plugin_baidutranslate",
     "project_link": "nonebot-plugin-baidutranslate",
     "author_id": 52584526,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-tortoise-orm:nonebot_plugin_tortoise_orm": {
     "module_name": "nonebot_plugin_tortoise_orm",
     "project_link": "nonebot-plugin-tortoise-orm",
     "author_id": 71873002,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-dailysign:nonebot_plugin_dailysign": {
     "module_name": "nonebot_plugin_dailysign",
     "project_link": "nonebot-plugin-dailysign",
     "author_id": 71873002,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-tetris-stats:nonebot_plugin_tetris_stats": {
     "module_name": "nonebot_plugin_tetris_stats",
     "project_link": "nonebot-plugin-tetris-stats",
     "author_id": 51957264,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot_plugin_bilibili_viode:nonebot_plugin_bilibili_viode": {
     "module_name": "nonebot_plugin_bilibili_viode",
     "project_link": "nonebot_plugin_bilibili_viode",
     "author_id": 61133548,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-imagetools:nonebot_plugin_imagetools": {
     "module_name": "nonebot_plugin_imagetools",
     "project_link": "nonebot-plugin-imagetools",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-warframe-clock:nonebot_plugin_warframe_clock": {
     "module_name": "nonebot_plugin_warframe_clock",
     "project_link": "nonebot-plugin-warframe-clock",
     "author_id": 124094085,
@@ -952,14 +952,14 @@
     ],
     "is_official": false
   },
-  {
+  "hikari-bot:hikari_bot": {
     "module_name": "hikari_bot",
     "project_link": "hikari-bot",
     "author_id": 48101337,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-who-at-me:nonebot_plugin_who_at_me": {
     "module_name": "nonebot_plugin_who_at_me",
     "project_link": "nonebot-plugin-who-at-me",
     "author_id": 9484642,
@@ -971,49 +971,49 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-covid-19-by:nonebot_plugin_covid_19_by": {
     "module_name": "nonebot_plugin_covid_19_by",
     "project_link": "nonebot-plugin-covid-19-by",
     "author_id": 99388013,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-reboot:nonebot_plugin_reboot": {
     "module_name": "nonebot_plugin_reboot",
     "project_link": "nonebot-plugin-reboot",
     "author_id": 22175295,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-setu4:nonebot_plugin_setu4": {
     "module_name": "nonebot_plugin_setu4",
     "project_link": "nonebot-plugin-setu4",
     "author_id": 87489040,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-smart-reply:nonebot_plugin_smart_reply": {
     "module_name": "nonebot_plugin_smart_reply",
     "project_link": "nonebot-plugin-smart-reply",
     "author_id": 87489040,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-today-in-history:nonebot_plugin_today_in_history": {
     "module_name": "nonebot_plugin_today_in_history",
     "project_link": "nonebot-plugin-today-in-history",
     "author_id": 64363680,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot_plugin_BitTorrent:nonebot_plugin_BitTorrent": {
     "module_name": "nonebot_plugin_BitTorrent",
     "project_link": "nonebot_plugin_BitTorrent",
     "author_id": 87489040,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-namelist:nonebot_plugin_namelist": {
     "module_name": "nonebot_plugin_namelist",
     "project_link": "nonebot-plugin-namelist",
     "author_id": 66513481,
@@ -1029,14 +1029,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bread-shop:nonebot_plugin_bread_shop": {
     "module_name": "nonebot_plugin_bread_shop",
     "project_link": "nonebot-plugin-bread-shop",
     "author_id": 62082723,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot_plugin_PicMenu:nonebot_plugin_PicMenu": {
     "module_name": "nonebot_plugin_PicMenu",
     "project_link": "nonebot_plugin_PicMenu",
     "author_id": 61297321,
@@ -1048,28 +1048,28 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot_plugin_horserace:nonebot_plugin_horserace": {
     "module_name": "nonebot_plugin_horserace",
     "project_link": "nonebot_plugin_horserace",
     "author_id": 105840558,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-firexN:nonebot_plugin_firexN": {
     "module_name": "nonebot_plugin_firexN",
     "project_link": "nonebot-plugin-firexN",
     "author_id": 94956933,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bfinfo:nonebot_plugin_bfinfo": {
     "module_name": "nonebot_plugin_bfinfo",
     "project_link": "nonebot-plugin-bfinfo",
     "author_id": 94956933,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-osubot:nonebot_plugin_osubot": {
     "module_name": "nonebot_plugin_osubot",
     "project_link": "nonebot-plugin-osubot",
     "author_id": 30517062,
@@ -1081,28 +1081,28 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-acc-calculate:nonebot_plugin_acc_calculate": {
     "module_name": "nonebot_plugin_acc_calculate",
     "project_link": "nonebot-plugin-acc-calculate",
     "author_id": 117957183,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot_plugin_kawaii_robot:nonebot_plugin_kawaii_robot": {
     "module_name": "nonebot_plugin_kawaii_robot",
     "project_link": "nonebot_plugin_kawaii_robot",
     "author_id": 51886078,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot_plugin_addFriend:nonebot_plugin_addFriend": {
     "module_name": "nonebot_plugin_addFriend",
     "project_link": "nonebot_plugin_addFriend",
     "author_id": 77319678,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-date-name:nonebot_plugin_date_name": {
     "module_name": "nonebot_plugin_date_name",
     "project_link": "nonebot-plugin-date-name",
     "author_id": 99388013,
@@ -1114,14 +1114,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot_plugin_easyCommand:nonebot_plugin_easyCommand": {
     "module_name": "nonebot_plugin_easyCommand",
     "project_link": "nonebot_plugin_easyCommand",
     "author_id": 77319678,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-report:nonebot_plugin_report": {
     "module_name": "nonebot_plugin_report",
     "project_link": "nonebot-plugin-report",
     "author_id": 61999173,
@@ -1137,14 +1137,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-hammer-nbnhhsh:nonebot_plugin_hammer_nbnhhsh": {
     "module_name": "nonebot_plugin_hammer_nbnhhsh",
     "project_link": "nonebot-plugin-hammer-nbnhhsh",
     "author_id": 15799382,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bawiki:nonebot_plugin_bawiki": {
     "module_name": "nonebot_plugin_bawiki",
     "project_link": "nonebot-plugin-bawiki",
     "author_id": 59048777,
@@ -1160,7 +1160,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mcqq:nonebot_plugin_mcqq": {
     "module_name": "nonebot_plugin_mcqq",
     "project_link": "nonebot-plugin-mcqq",
     "author_id": 54731914,
@@ -1176,7 +1176,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-covid-19-by-guild:nonebot_plugin_covid_19_by_guild": {
     "module_name": "nonebot_plugin_covid_19_by_guild",
     "project_link": "nonebot-plugin-covid-19-by-guild",
     "author_id": 99388013,
@@ -1188,14 +1188,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wiki:nonebot_plugin_wiki": {
     "module_name": "nonebot_plugin_wiki",
     "project_link": "nonebot-plugin-wiki",
     "author_id": 60338092,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-groupmanager:nonebot_plugin_groupmanager": {
     "module_name": "nonebot_plugin_groupmanager",
     "project_link": "nonebot-plugin-groupmanager",
     "author_id": 76118866,
@@ -1211,21 +1211,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot_plugin_game_collection:nonebot_plugin_game_collection": {
     "module_name": "nonebot_plugin_game_collection",
     "project_link": "nonebot_plugin_game_collection",
     "author_id": 51886078,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-drawer:nonebot_plugin_drawer": {
     "module_name": "nonebot_plugin_drawer",
     "project_link": "nonebot-plugin-drawer",
     "author_id": 35400185,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-jrrp-n:nonebot_plugin_jrrp-n": {
     "module_name": "nonebot_plugin_jrrp-n",
     "project_link": "nonebot-plugin-jrrp-n",
     "author_id": 82658163,
@@ -1241,21 +1241,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-moegoe:nonebot_plugin_moegoe": {
     "module_name": "nonebot_plugin_moegoe",
     "project_link": "nonebot-plugin-moegoe",
     "author_id": 10485632,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-pixivbot:nonebot_plugin_pixivbot": {
     "module_name": "nonebot_plugin_pixivbot",
     "project_link": "nonebot-plugin-pixivbot",
     "author_id": 17331698,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-workscore:nonebot_plugin_workscore": {
     "module_name": "nonebot_plugin_workscore",
     "project_link": "nonebot-plugin-workscore",
     "author_id": 51691024,
@@ -1267,14 +1267,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-treehelp:nonebot_plugin_treehelp": {
     "module_name": "nonebot_plugin_treehelp",
     "project_link": "nonebot-plugin-treehelp",
     "author_id": 5219550,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-cqsat:cqsat": {
     "module_name": "cqsat",
     "project_link": "nonebot-plugin-cqsat",
     "author_id": 51691024,
@@ -1294,7 +1294,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-course:nonebot_plugin_course": {
     "module_name": "nonebot_plugin_course",
     "project_link": "nonebot-plugin-course",
     "author_id": 101713235,
@@ -1306,14 +1306,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-dialectlist:nonebot_plugin_dialectlist": {
     "module_name": "nonebot_plugin_dialectlist",
     "project_link": "nonebot-plugin-dialectlist",
     "author_id": 91937041,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-offline-mahjong-helper:nonebot_plugin_offline_mahjong_helper": {
     "module_name": "nonebot_plugin_offline_mahjong_helper",
     "project_link": "nonebot-plugin-offline-mahjong-helper",
     "author_id": 30568146,
@@ -1333,7 +1333,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-send:nonebot_plugin_send": {
     "module_name": "nonebot_plugin_send",
     "project_link": "nonebot-plugin-send",
     "author_id": 34237511,
@@ -1353,7 +1353,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-todo-nlp:nonebot_plugin_todo_nlp": {
     "module_name": "nonebot_plugin_todo_nlp",
     "project_link": "nonebot-plugin-todo-nlp",
     "author_id": 52662784,
@@ -1369,7 +1369,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wordsnorote:nonebot_plugin_wordsnorote": {
     "module_name": "nonebot_plugin_wordsnorote",
     "project_link": "nonebot-plugin-wordsnorote",
     "author_id": 94956933,
@@ -1381,7 +1381,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-CyberSensoji:nonebot_plugin_CyberSensoji": {
     "module_name": "nonebot_plugin_CyberSensoji",
     "project_link": "nonebot-plugin-CyberSensoji",
     "author_id": 80341233,
@@ -1393,7 +1393,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gspanel:nonebot_plugin_gspanel": {
     "module_name": "nonebot_plugin_gspanel",
     "project_link": "nonebot-plugin-gspanel",
     "author_id": 22407052,
@@ -1405,7 +1405,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gsmaterial:nonebot_plugin_gsmaterial": {
     "module_name": "nonebot_plugin_gsmaterial",
     "project_link": "nonebot-plugin-gsmaterial",
     "author_id": 22407052,
@@ -1417,7 +1417,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mystool:nonebot_plugin_mystool": {
     "module_name": "nonebot_plugin_mystool",
     "project_link": "nonebot-plugin-mystool",
     "author_id": 63289359,
@@ -1433,7 +1433,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-warframe:nonebot_plugin_warframe": {
     "module_name": "nonebot_plugin_warframe",
     "project_link": "nonebot-plugin-warframe",
     "author_id": 54731914,
@@ -1449,7 +1449,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mcqq-server:nonebot_plugin_mcqq_server": {
     "module_name": "nonebot_plugin_mcqq_server",
     "project_link": "nonebot-plugin-mcqq-server",
     "author_id": 51886078,
@@ -1465,7 +1465,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot_plugin_RealESRGAN:nonebot_plugin_RealESRGAN": {
     "module_name": "nonebot_plugin_RealESRGAN",
     "project_link": "nonebot_plugin_RealESRGAN",
     "author_id": 78833215,
@@ -1477,14 +1477,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wolf-kill:nonebot-plugin-wolf-kill": {
     "module_name": "nonebot-plugin-wolf-kill",
     "project_link": "nonebot-plugin-wolf-kill",
     "author_id": 30973981,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-iot:iot": {
     "module_name": "iot",
     "project_link": "nonebot-plugin-iot",
     "author_id": 70781619,
@@ -1504,7 +1504,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bwiki-navigator:nonebot_plugin_bwiki_navigator": {
     "module_name": "nonebot_plugin_bwiki_navigator",
     "project_link": "nonebot-plugin-bwiki-navigator",
     "author_id": 41534161,
@@ -1516,7 +1516,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bottle:nonebot_plugin_bottle": {
     "module_name": "nonebot_plugin_bottle",
     "project_link": "nonebot-plugin-bottle",
     "author_id": 97968466,
@@ -1528,7 +1528,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-tts-gal:nonebot_plugin_tts_gal": {
     "module_name": "nonebot_plugin_tts_gal",
     "project_link": "nonebot-plugin-tts-gal",
     "author_id": 89716406,
@@ -1540,7 +1540,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-alicdk-get:nonebot_plugin_alicdk_get": {
     "module_name": "nonebot_plugin_alicdk_get",
     "project_link": "nonebot-plugin-alicdk-get",
     "author_id": 53631287,
@@ -1560,7 +1560,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-picstatus:nonebot_plugin_picstatus": {
     "module_name": "nonebot_plugin_picstatus",
     "project_link": "nonebot-plugin-picstatus",
     "author_id": 59048777,
@@ -1572,14 +1572,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-tuling:nonebot_plugin_tuling": {
     "module_name": "nonebot_plugin_tuling",
     "project_link": "nonebot-plugin-tuling",
     "author_id": 45281765,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot_plugin_makemidi:nonebot_plugin_makemidi": {
     "module_name": "nonebot_plugin_makemidi",
     "project_link": "nonebot_plugin_makemidi",
     "author_id": 79776324,
@@ -1591,7 +1591,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ocr:nonebot_plugin_ocr": {
     "module_name": "nonebot_plugin_ocr",
     "project_link": "nonebot-plugin-ocr",
     "author_id": 111744697,
@@ -1603,14 +1603,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-listener:nonebot_plugin_listener": {
     "module_name": "nonebot_plugin_listener",
     "project_link": "nonebot-plugin-listener",
     "author_id": 30973981,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-BiliRequestAll:nonebot_plugin_BiliRequestAll": {
     "module_name": "nonebot_plugin_BiliRequestAll",
     "project_link": "nonebot-plugin-BiliRequestAll",
     "author_id": 112923496,
@@ -1626,14 +1626,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-russian-ban:nonebot_plugin_russian_ban": {
     "module_name": "nonebot_plugin_russian_ban",
     "project_link": "nonebot-plugin-russian-ban",
     "author_id": 51886078,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ygo-trade:nonebot_plugin_ygo_trade": {
     "module_name": "nonebot_plugin_ygo_trade",
     "project_link": "nonebot-plugin-ygo-trade",
     "author_id": 41512913,
@@ -1653,7 +1653,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-novelai:nonebot_plugin_novelai": {
     "module_name": "nonebot_plugin_novelai",
     "project_link": "nonebot-plugin-novelai",
     "author_id": 34237511,
@@ -1673,7 +1673,7 @@
     ],
     "is_official": false
   },
-  {
+  "ayaka_games:ayaka_games": {
     "module_name": "ayaka_games",
     "project_link": "ayaka_games",
     "author_id": 47290820,
@@ -1685,7 +1685,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ayaka-timezone:ayaka_timezone": {
     "module_name": "ayaka_timezone",
     "project_link": "nonebot-plugin-ayaka-timezone",
     "author_id": 47290820,
@@ -1697,7 +1697,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ayaka-prevent-bad-words:ayaka_prevent_bad_words": {
     "module_name": "ayaka_prevent_bad_words",
     "project_link": "nonebot-plugin-ayaka-prevent-bad-words",
     "author_id": 47290820,
@@ -1709,14 +1709,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-savor:nonebot_plugin_savor": {
     "module_name": "nonebot_plugin_savor",
     "project_link": "nonebot-plugin-savor",
     "author_id": 66513481,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-kfcrazy:nonebot_plugin_kfcrazy": {
     "module_name": "nonebot_plugin_kfcrazy",
     "project_link": "nonebot-plugin-kfcrazy",
     "author_id": 53631287,
@@ -1736,21 +1736,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-random:nonebot-plugin-random": {
     "module_name": "nonebot-plugin-random",
     "project_link": "nonebot-plugin-random",
     "author_id": 52129454,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-blacklist:nonebot_plugin_blacklist": {
     "module_name": "nonebot_plugin_blacklist",
     "project_link": "nonebot-plugin-blacklist",
     "author_id": 107618388,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-antiinsult:nonebot_plugin_antiinsult": {
     "module_name": "nonebot_plugin_antiinsult",
     "project_link": "nonebot-plugin-antiinsult",
     "author_id": 107618388,
@@ -1762,7 +1762,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-oddtext:nonebot_plugin_oddtext": {
     "module_name": "nonebot_plugin_oddtext",
     "project_link": "nonebot-plugin-oddtext",
     "author_id": 33149974,
@@ -1774,7 +1774,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mahjong-scoreboard:nonebot_plugin_mahjong_scoreboard": {
     "module_name": "nonebot_plugin_mahjong_scoreboard",
     "project_link": "nonebot-plugin-mahjong-scoreboard",
     "author_id": 17331698,
@@ -1786,14 +1786,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-cartoon:nonebot_plugin_cartoon": {
     "module_name": "nonebot_plugin_cartoon",
     "project_link": "nonebot-plugin-cartoon",
     "author_id": 66513481,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mahjong-utils:nonebot_plugin_mahjong_utils": {
     "module_name": "nonebot_plugin_mahjong_utils",
     "project_link": "nonebot-plugin-mahjong-utils",
     "author_id": 17331698,
@@ -1805,7 +1805,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-animeres:nonebot_plugin_animeres": {
     "module_name": "nonebot_plugin_animeres",
     "project_link": "nonebot-plugin-animeres",
     "author_id": 50488999,
@@ -1817,28 +1817,28 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-person:nonebot-plugin-person": {
     "module_name": "nonebot-plugin-person",
     "project_link": "nonebot-plugin-person",
     "author_id": 52129454,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-apex-api-query:nonebot_plugin_apex_api_query": {
     "module_name": "nonebot_plugin_apex_api_query",
     "project_link": "nonebot-plugin-apex-api-query",
     "author_id": 40495719,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-reborn:nonebot_plugin_reborn": {
     "module_name": "nonebot_plugin_reborn",
     "project_link": "nonebot-plugin-reborn",
     "author_id": 113450723,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-searchBiliInfo:nonebot_plugin_searchBiliInfo": {
     "module_name": "nonebot_plugin_searchBiliInfo",
     "project_link": "nonebot-plugin-searchBiliInfo",
     "author_id": 40910637,
@@ -1850,7 +1850,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-colab-novelai:nonebot_plugin_colab_novelai": {
     "module_name": "nonebot_plugin_colab_novelai",
     "project_link": "nonebot-plugin-colab-novelai",
     "author_id": 100039483,
@@ -1862,7 +1862,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-sky:nonebot_plugin_sky": {
     "module_name": "nonebot_plugin_sky",
     "project_link": "nonebot-plugin-sky",
     "author_id": 53631287,
@@ -1878,7 +1878,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-zyk-novelai:nonebot_plugin_zyk_novelai": {
     "module_name": "nonebot_plugin_zyk_novelai",
     "project_link": "nonebot-plugin-zyk-novelai",
     "author_id": 110616928,
@@ -1898,14 +1898,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-repeep:nonebot_plugin_repeep": {
     "module_name": "nonebot_plugin_repeep",
     "project_link": "nonebot-plugin-repeep",
     "author_id": 51946313,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gscode:nonebot_plugin_gscode": {
     "module_name": "nonebot_plugin_gscode",
     "project_link": "nonebot-plugin-gscode",
     "author_id": 22407052,
@@ -1917,21 +1917,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-note:nonebot_plugin_note": {
     "module_name": "nonebot_plugin_note",
     "project_link": "nonebot-plugin-note",
     "author_id": 111600679,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bilibili-image:nonebot-plugin-bilibili-image": {
     "module_name": "nonebot-plugin-bilibili-image",
     "project_link": "nonebot-plugin-bilibili-image",
     "author_id": 52129454,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-trace-moe:nonebot_plugin_trace_moe": {
     "module_name": "nonebot_plugin_trace_moe",
     "project_link": "nonebot-plugin-trace-moe",
     "author_id": 40910637,
@@ -1947,7 +1947,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-zyk-music:nonebot_plugin_zyk_music": {
     "module_name": "nonebot_plugin_zyk_music",
     "project_link": "nonebot-plugin-zyk-music",
     "author_id": 110616928,
@@ -1967,14 +1967,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-chatgpt:nonebot_plugin_chatgpt": {
     "module_name": "nonebot_plugin_chatgpt",
     "project_link": "nonebot-plugin-chatgpt",
     "author_id": 66513481,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-majsoul:nonebot_plugin_majsoul": {
     "module_name": "nonebot_plugin_majsoul",
     "project_link": "nonebot-plugin-majsoul",
     "author_id": 17331698,
@@ -1986,7 +1986,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-remove-bg:nonebot_plugin_remove_bg": {
     "module_name": "nonebot_plugin_remove_bg",
     "project_link": "nonebot-plugin-remove-bg",
     "author_id": 40910637,
@@ -2002,21 +2002,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-broadcast:nonebot_plugin_broadcast": {
     "module_name": "nonebot_plugin_broadcast",
     "project_link": "nonebot-plugin-broadcast",
     "author_id": 66513481,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-exchangerate:nonebot_plugin_exchangerate": {
     "module_name": "nonebot_plugin_exchangerate",
     "project_link": "nonebot-plugin-exchangerate",
     "author_id": 66513481,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-access-control:nonebot_plugin_access_control": {
     "module_name": "nonebot_plugin_access_control",
     "project_link": "nonebot-plugin-access-control",
     "author_id": 17331698,
@@ -2028,7 +2028,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-colormind:nonebot_plugin_colormind": {
     "module_name": "nonebot_plugin_colormind",
     "project_link": "nonebot-plugin-colormind",
     "author_id": 40910637,
@@ -2044,7 +2044,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-abstain-diary:nonebot_plugin_abstain_diary": {
     "module_name": "nonebot_plugin_abstain_diary",
     "project_link": "nonebot-plugin-abstain-diary",
     "author_id": 40910637,
@@ -2056,35 +2056,35 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-backup:nonebot_plugin_backup": {
     "module_name": "nonebot_plugin_backup",
     "project_link": "nonebot-plugin-backup",
     "author_id": 46314093,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-kuma-san:nonebot_plugin_kuma_san": {
     "module_name": "nonebot_plugin_kuma_san",
     "project_link": "nonebot-plugin-kuma-san",
     "author_id": 30224828,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gpt3:nonebot_plugin_gpt3": {
     "module_name": "nonebot_plugin_gpt3",
     "project_link": "nonebot-plugin-gpt3",
     "author_id": 63803385,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ikun-evolution:nonebot_plugin_ikun_evolution": {
     "module_name": "nonebot_plugin_ikun_evolution",
     "project_link": "nonebot-plugin-ikun-evolution",
     "author_id": 11630758,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-random-ban:nonebot_plugin_random_ban": {
     "module_name": "nonebot_plugin_random_ban",
     "project_link": "nonebot-plugin-random-ban",
     "author_id": 40910637,
@@ -2100,14 +2100,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-antirecall:nonebot_plugin_antirecall": {
     "module_name": "nonebot_plugin_antirecall",
     "project_link": "nonebot-plugin-antirecall",
     "author_id": 105533056,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mc-server-status:nonebot_plugin_mc_server_status": {
     "module_name": "nonebot_plugin_mc_server_status",
     "project_link": "nonebot-plugin-mc-server-status",
     "author_id": 31379266,
@@ -2119,35 +2119,35 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-no-repeat:nonebot_plugin_no_repeat": {
     "module_name": "nonebot_plugin_no_repeat",
     "project_link": "nonebot-plugin-no-repeat",
     "author_id": 47290820,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bfchat:nonebot_plugin_bfchat": {
     "module_name": "nonebot_plugin_bfchat",
     "project_link": "nonebot-plugin-bfchat",
     "author_id": 30611816,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-summon:nonebot_plugin_summon": {
     "module_name": "nonebot_plugin_summon",
     "project_link": "nonebot-plugin-summon",
     "author_id": 66541860,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ping:nonebot_plugin_ping": {
     "module_name": "nonebot_plugin_ping",
     "project_link": "nonebot-plugin-ping",
     "author_id": 66541860,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot_plugin_face2cartoonpic:nonebot_plugin_face2cartoonpic": {
     "module_name": "nonebot_plugin_face2cartoonpic",
     "project_link": "nonebot_plugin_face2cartoonpic",
     "author_id": 96008766,
@@ -2163,7 +2163,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-servicestate:nonebot_plugin_servicestate": {
     "module_name": "nonebot_plugin_servicestate",
     "project_link": "nonebot-plugin-servicestate",
     "author_id": 44545625,
@@ -2179,7 +2179,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-animalVoice:nonebot_plugin_animalVoice": {
     "module_name": "nonebot_plugin_animalVoice",
     "project_link": "nonebot-plugin-animalVoice",
     "author_id": 96008766,
@@ -2199,7 +2199,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ayaka-scan-cmd:nonebot_plugin_ayaka_scan_cmd": {
     "module_name": "nonebot_plugin_ayaka_scan_cmd",
     "project_link": "nonebot-plugin-ayaka-scan-cmd",
     "author_id": 47290820,
@@ -2211,7 +2211,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-HttpCat:nonebot_plugin_HttpCat": {
     "module_name": "nonebot_plugin_HttpCat",
     "project_link": "nonebot-plugin-HttpCat",
     "author_id": 96008766,
@@ -2227,7 +2227,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-revoke:nonebot_plugin_revoke": {
     "module_name": "nonebot_plugin_revoke",
     "project_link": "nonebot-plugin-revoke",
     "author_id": 17331698,
@@ -2239,7 +2239,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-setu-customization:nonebot_plugin_setu_customization": {
     "module_name": "nonebot_plugin_setu_customization",
     "project_link": "nonebot-plugin-setu-customization",
     "author_id": 31379266,
@@ -2251,7 +2251,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-l4d2-server:nonebot_plugin_l4d2_server": {
     "module_name": "nonebot_plugin_l4d2_server",
     "project_link": "nonebot-plugin-l4d2-server",
     "author_id": 70925546,
@@ -2263,21 +2263,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-learning-chat:nonebot_plugin_learning_chat": {
     "module_name": "nonebot_plugin_learning_chat",
     "project_link": "nonebot-plugin-learning-chat",
     "author_id": 63870437,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-couplets:nonebot_plugin_couplets": {
     "module_name": "nonebot_plugin_couplets",
     "project_link": "nonebot-plugin-couplets",
     "author_id": 63870437,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-Imagelabels:nonebot_plugin_Imagelabels": {
     "module_name": "nonebot_plugin_Imagelabels",
     "project_link": "nonebot-plugin-Imagelabels",
     "author_id": 110215026,
@@ -2293,14 +2293,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-cloudsignx:nonebot_plugin_cloudsignx": {
     "module_name": "nonebot_plugin_cloudsignx",
     "project_link": "nonebot-plugin-cloudsignx",
     "author_id": 42509185,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-imgexploration:nonebot_plugin_imgexploration": {
     "module_name": "nonebot_plugin_imgexploration",
     "project_link": "nonebot-plugin-imgexploration",
     "author_id": 46257373,
@@ -2312,7 +2312,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-hypixel:nonebot_plugin_hypixel": {
     "module_name": "nonebot_plugin_hypixel",
     "project_link": "nonebot-plugin-hypixel",
     "author_id": 82658163,
@@ -2332,7 +2332,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-nowtime:nonebot_plugin_nowtime": {
     "module_name": "nonebot_plugin_nowtime",
     "project_link": "nonebot-plugin-nowtime",
     "author_id": 106718176,
@@ -2348,21 +2348,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-cave:nonebot_plugin_cave": {
     "module_name": "nonebot_plugin_cave",
     "project_link": "nonebot-plugin-cave",
     "author_id": 85006030,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-xingzuo:nonebot_plugin_xingzuo": {
     "module_name": "nonebot_plugin_xingzuo",
     "project_link": "nonebot-plugin-xingzuo",
     "author_id": 90902259,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-BingImage:nonebot_plugin_BingImage": {
     "module_name": "nonebot_plugin_BingImage",
     "project_link": "nonebot-plugin-BingImage",
     "author_id": 71204348,
@@ -2382,7 +2382,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-soup:nonebot_plugin_soup": {
     "module_name": "nonebot_plugin_soup",
     "project_link": "nonebot-plugin-soup",
     "author_id": 42509185,
@@ -2402,7 +2402,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-yuanshen-notice:nonebot_plugin_yuanshen_notice": {
     "module_name": "nonebot_plugin_yuanshen_notice",
     "project_link": "nonebot-plugin-yuanshen-notice",
     "author_id": 90902259,
@@ -2418,7 +2418,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bilibili-yuan:nonebot_plugin_bilibili_yuan": {
     "module_name": "nonebot_plugin_bilibili_yuan",
     "project_link": "nonebot-plugin-bilibili-yuan",
     "author_id": 90902259,
@@ -2430,7 +2430,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-easy-translate:nonebot_plugin_easy_translate": {
     "module_name": "nonebot_plugin_easy_translate",
     "project_link": "nonebot-plugin-easy-translate",
     "author_id": 31379266,
@@ -2442,23 +2442,7 @@
     ],
     "is_official": false
   },
-  {
-    "module_name": "nonebot_plugin_orangedice",
-    "project_link": "nonebot-plugin-orangedice",
-    "author_id": 63897047,
-    "tags": [
-      {
-        "label": "dice",
-        "color": "#08c0bb"
-      },
-      {
-        "label": "COC",
-        "color": "#a2bc0c"
-      }
-    ],
-    "is_official": false
-  },
-  {
+  "nonebot-plugin-record:nonebot_plugin_record": {
     "module_name": "nonebot_plugin_record",
     "project_link": "nonebot-plugin-record",
     "author_id": 104713034,
@@ -2478,7 +2462,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-nya-cook-menu:nonebot_plugin_nya_cook_menu": {
     "module_name": "nonebot_plugin_nya_cook_menu",
     "project_link": "nonebot-plugin-nya-cook-menu",
     "author_id": 31379266,
@@ -2490,7 +2474,7 @@
     ],
     "is_official": false
   },
-  {
+  "criminal-dance:criminal_dance": {
     "module_name": "criminal_dance",
     "project_link": "criminal-dance",
     "author_id": 47290820,
@@ -2502,7 +2486,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-picmcstat:nonebot_plugin_picmcstat": {
     "module_name": "nonebot_plugin_picmcstat",
     "project_link": "nonebot-plugin-picmcstat",
     "author_id": 59048777,
@@ -2514,28 +2498,28 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wantwords:nonebot_plugin_wantwords": {
     "module_name": "nonebot_plugin_wantwords",
     "project_link": "nonebot-plugin-wantwords",
     "author_id": 81900789,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-pvz:nonebot_plugin_pvz": {
     "module_name": "nonebot_plugin_pvz",
     "project_link": "nonebot-plugin-pvz",
     "author_id": 75836227,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-report-manager:nonebot_plugin_report_manager": {
     "module_name": "nonebot_plugin_report_manager",
     "project_link": "nonebot-plugin-report-manager",
     "author_id": 75826243,
     "tags": [],
     "is_official": false
   },
-  {
+  "qinglan-bot:qinglan_bot": {
     "module_name": "qinglan_bot",
     "project_link": "qinglan-bot",
     "author_id": 54731914,
@@ -2547,7 +2531,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-easy-group-manager:nonebot_plugin_easy_group_manager": {
     "module_name": "nonebot_plugin_easy_group_manager",
     "project_link": "nonebot-plugin-easy-group-manager",
     "author_id": 66541860,
@@ -2563,7 +2547,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-group-link-guild:nonebot_plugin_group_link_guild": {
     "module_name": "nonebot_plugin_group_link_guild",
     "project_link": "nonebot-plugin-group-link-guild",
     "author_id": 54731914,
@@ -2583,14 +2567,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mcport:nonebot-plugin-mcport": {
     "module_name": "nonebot-plugin-mcport",
     "project_link": "nonebot-plugin-mcport",
     "author_id": 107346913,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot_plugin_xdu_support:nonebot_plugin_xdu_support": {
     "module_name": "nonebot_plugin_xdu_support",
     "project_link": "nonebot_plugin_xdu_support",
     "author_id": 75836227,
@@ -2602,7 +2586,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-zyk-lightNVL:nonebot_plugin_zyk_lightNVL": {
     "module_name": "nonebot_plugin_zyk_lightNVL",
     "project_link": "nonebot-plugin-zyk-lightNVL",
     "author_id": 110616928,
@@ -2614,14 +2598,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-dog:nonebot_plugin_dog": {
     "module_name": "nonebot_plugin_dog",
     "project_link": "nonebot-plugin-dog",
     "author_id": 87823528,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-uuid:nonebot_plugin_uuid": {
     "module_name": "nonebot_plugin_uuid",
     "project_link": "nonebot-plugin-uuid",
     "author_id": 60338092,
@@ -2633,7 +2617,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-naturel-gpt:nonebot_plugin_naturel_gpt": {
     "module_name": "nonebot_plugin_naturel_gpt",
     "project_link": "nonebot-plugin-naturel-gpt",
     "author_id": 57167362,
@@ -2649,14 +2633,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-impact:nonebot_plugin_impact": {
     "module_name": "nonebot_plugin_impact",
     "project_link": "nonebot-plugin-impact",
     "author_id": 87489040,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mcping:nonebot_plugin_mcping": {
     "module_name": "nonebot_plugin_mcping",
     "project_link": "nonebot-plugin-mcping",
     "author_id": 54731914,
@@ -2672,7 +2656,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-b23:nonebot_plugin_b23": {
     "module_name": "nonebot_plugin_b23",
     "project_link": "nonebot-plugin-b23",
     "author_id": 61458340,
@@ -2688,7 +2672,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-autoreply:nonebot_plugin_autoreply": {
     "module_name": "nonebot_plugin_autoreply",
     "project_link": "nonebot-plugin-autoreply",
     "author_id": 59048777,
@@ -2700,7 +2684,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-setu-collection:nonebot_plugin_setu_collection": {
     "module_name": "nonebot_plugin_setu_collection",
     "project_link": "nonebot-plugin-setu-collection",
     "author_id": 51886078,
@@ -2716,7 +2700,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-groupmate-waifu:nonebot_plugin_groupmate_waifu": {
     "module_name": "nonebot_plugin_groupmate_waifu",
     "project_link": "nonebot-plugin-groupmate-waifu",
     "author_id": 51886078,
@@ -2728,7 +2712,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-jrrp2:nonebot_plugin_jrrp2": {
     "module_name": "nonebot_plugin_jrrp2",
     "project_link": "nonebot-plugin-jrrp2",
     "author_id": 74699219,
@@ -2748,7 +2732,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-dicky-pk:nonebot_plugin_dicky_pk": {
     "module_name": "nonebot_plugin_dicky_pk",
     "project_link": "nonebot-plugin-dicky-pk",
     "author_id": 107618388,
@@ -2760,7 +2744,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-eventmonitor:nonebot_plugin_eventmonitor": {
     "module_name": "nonebot_plugin_eventmonitor",
     "project_link": "nonebot-plugin-eventmonitor",
     "author_id": 87823528,
@@ -2772,7 +2756,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-whateat-pic:nonebot_plugin_whateat_pic": {
     "module_name": "nonebot_plugin_whateat_pic",
     "project_link": "nonebot-plugin-whateat-pic",
     "author_id": 106718176,
@@ -2788,7 +2772,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-matcher-block:nonebot_plugin_matcher_block": {
     "module_name": "nonebot_plugin_matcher_block",
     "project_link": "nonebot-plugin-matcher-block",
     "author_id": 51886078,
@@ -2800,7 +2784,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-acm-reminder:nonebot_plugin_acm_reminder": {
     "module_name": "nonebot_plugin_acm_reminder",
     "project_link": "nonebot-plugin-acm-reminder",
     "author_id": 63897047,
@@ -2812,7 +2796,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-maimai:nonebot_plugin_maimai": {
     "module_name": "nonebot_plugin_maimai",
     "project_link": "nonebot-plugin-maimai",
     "author_id": 70925546,
@@ -2824,14 +2808,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-all4one:nonebot_plugin_all4one": {
     "module_name": "nonebot_plugin_all4one",
     "project_link": "nonebot-plugin-all4one",
     "author_id": 50312681,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gsabyss:nonebot_plugin_gsabyss": {
     "module_name": "nonebot_plugin_gsabyss",
     "project_link": "nonebot-plugin-gsabyss",
     "author_id": 22407052,
@@ -2843,7 +2827,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-arktools:nonebot_plugin_arktools": {
     "module_name": "nonebot_plugin_arktools",
     "project_link": "nonebot-plugin-arktools",
     "author_id": 52584526,
@@ -2859,7 +2843,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gartic-room:gartic_room": {
     "module_name": "gartic_room",
     "project_link": "nonebot-plugin-gartic-room",
     "author_id": 47290820,
@@ -2871,7 +2855,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-resolver:nonebot-plugin-resolver": {
     "module_name": "nonebot-plugin-resolver",
     "project_link": "nonebot-plugin-resolver",
     "author_id": 33365787,
@@ -2891,21 +2875,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bing-chat:nonebot_plugin_bing_chat": {
     "module_name": "nonebot_plugin_bing_chat",
     "project_link": "nonebot-plugin-bing-chat",
     "author_id": 69247286,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-send-anything-anywhere:nonebot_plugin_saa": {
     "module_name": "nonebot_plugin_saa",
     "project_link": "nonebot-plugin-send-anything-anywhere",
     "author_id": 23295345,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-random-stereotypes:nonebot_plugin_random_stereotypes": {
     "module_name": "nonebot_plugin_random_stereotypes",
     "project_link": "nonebot-plugin-random-stereotypes",
     "author_id": 40910637,
@@ -2917,7 +2901,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot_plugin_xiuxian_2:nonebot_plugin_xiuxian_2": {
     "module_name": "nonebot_plugin_xiuxian_2",
     "project_link": "nonebot_plugin_xiuxian_2",
     "author_id": 88731921,
@@ -2933,7 +2917,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-h2e:nonebot_plugin_h2e": {
     "module_name": "nonebot_plugin_h2e",
     "project_link": "nonebot-plugin-h2e",
     "author_id": 59423752,
@@ -2953,7 +2937,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-oachat:nonebot_plugin_oachat": {
     "module_name": "nonebot_plugin_oachat",
     "project_link": "nonebot-plugin-oachat",
     "author_id": 59423752,
@@ -2973,7 +2957,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-warframe-mode:nonebot_plugin_warframe_mode": {
     "module_name": "nonebot_plugin_warframe_mode",
     "project_link": "nonebot-plugin-warframe-mode",
     "author_id": 73402119,
@@ -2989,7 +2973,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bf1-groptools:nonebot_plugin_bf1_groptools": {
     "module_name": "nonebot_plugin_bf1_groptools",
     "project_link": "nonebot-plugin-bf1-groptools",
     "author_id": 72740993,
@@ -3001,7 +2985,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-afd:nonebot_plugin_afd": {
     "module_name": "nonebot_plugin_afd",
     "project_link": "nonebot-plugin-afd",
     "author_id": 54731914,
@@ -3017,7 +3001,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-eventdone:nonebot_plugin_eventdone": {
     "module_name": "nonebot_plugin_eventdone",
     "project_link": "nonebot-plugin-eventdone",
     "author_id": 105444165,
@@ -3029,42 +3013,42 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ncm-saying:nonebot_plugin_ncm_saying": {
     "module_name": "nonebot_plugin_ncm_saying",
     "project_link": "nonebot-plugin-ncm-saying",
     "author_id": 78636812,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-60s:nonebot_plugin_60s": {
     "module_name": "nonebot_plugin_60s",
     "project_link": "nonebot-plugin-60s",
     "author_id": 78636812,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-AutoRepeater:nonebot_plugin_AutoRepeater": {
     "module_name": "nonebot_plugin_AutoRepeater",
     "project_link": "nonebot-plugin-AutoRepeater",
     "author_id": 59276590,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ai-timetable:nonebot_plugin_ai_timetable": {
     "module_name": "nonebot_plugin_ai_timetable",
     "project_link": "nonebot-plugin-ai-timetable",
     "author_id": 123555887,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-sanae:nonebot_plugin_sanae": {
     "module_name": "nonebot_plugin_sanae",
     "project_link": "nonebot-plugin-sanae",
     "author_id": 36219542,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-arkrecord:nonebot_plugin_arkrecord": {
     "module_name": "nonebot_plugin_arkrecord",
     "project_link": "nonebot-plugin-arkrecord",
     "author_id": 63400477,
@@ -3084,7 +3068,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-chatgpt-turbo:nonebot_plugin_chatgpt_turbo": {
     "module_name": "nonebot_plugin_chatgpt_turbo",
     "project_link": "nonebot-plugin-chatgpt-turbo",
     "author_id": 16055526,
@@ -3100,14 +3084,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-chatgpt-on-qq:nonebot_plugin_chatgpt_on_qq": {
     "module_name": "nonebot_plugin_chatgpt_on_qq",
     "project_link": "nonebot-plugin-chatgpt-on-qq",
     "author_id": 33772816,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-tuan-chatgpt:nonebot_plugin_tuan_chatgpt": {
     "module_name": "nonebot_plugin_tuan_chatgpt",
     "project_link": "nonebot-plugin-tuan-chatgpt",
     "author_id": 32624562,
@@ -3123,7 +3107,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-chatpdf:nonebot_plugin_chatpdf": {
     "module_name": "nonebot_plugin_chatpdf",
     "project_link": "nonebot-plugin-chatpdf",
     "author_id": 16055526,
@@ -3139,7 +3123,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-rimofun:nonebot_plugin_rimofun": {
     "module_name": "nonebot_plugin_rimofun",
     "project_link": "nonebot-plugin-rimofun",
     "author_id": 59048777,
@@ -3155,21 +3139,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-customemote:nonebot_plugin_customemote": {
     "module_name": "nonebot_plugin_customemote",
     "project_link": "nonebot-plugin-customemote",
     "author_id": 59276590,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-justsix:nonebot_plugin_justsix": {
     "module_name": "nonebot_plugin_justsix",
     "project_link": "nonebot-plugin-justsix",
     "author_id": 127737368,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-simulator-xiuxian:nonebot_plugin_simulator_xiuxian": {
     "module_name": "nonebot_plugin_simulator_xiuxian",
     "project_link": "nonebot-plugin-simulator-xiuxian",
     "author_id": 127736993,
@@ -3185,14 +3169,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bracket:nonebot_plugin_bracket": {
     "module_name": "nonebot_plugin_bracket",
     "project_link": "nonebot-plugin-bracket",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gshisbanner:nonebot_plugin_gshisbanner": {
     "module_name": "nonebot_plugin_gshisbanner",
     "project_link": "nonebot-plugin-gshisbanner",
     "author_id": 100580891,
@@ -3208,7 +3192,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-unoconv:nonebot_plugin_unoconv": {
     "module_name": "nonebot_plugin_unoconv",
     "project_link": "nonebot-plugin-unoconv",
     "author_id": 57753690,
@@ -3224,21 +3208,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-apexranklookup:nonebot_plugin_apexranklookup": {
     "module_name": "nonebot_plugin_apexranklookup",
     "project_link": "nonebot-plugin-apexranklookup",
     "author_id": 22563214,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-randomnana:nonebot_plugin_randomnana": {
     "module_name": "nonebot_plugin_randomnana",
     "project_link": "nonebot-plugin-randomnana",
     "author_id": 56375835,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-quote:nonebot_plugin_quote": {
     "module_name": "nonebot_plugin_quote",
     "project_link": "nonebot-plugin-quote",
     "author_id": 32476024,
@@ -3250,14 +3234,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-memes-api:nonebot_plugin_memes_api": {
     "module_name": "nonebot_plugin_memes_api",
     "project_link": "nonebot-plugin-memes-api",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-rrc:nonebot_plugin_rrc": {
     "module_name": "nonebot_plugin_rrc",
     "project_link": "nonebot-plugin-rrc",
     "author_id": 88731921,
@@ -3273,14 +3257,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-hotsearch:nonebot_plugin_hotsearch": {
     "module_name": "nonebot_plugin_hotsearch",
     "project_link": "nonebot-plugin-hotsearch",
     "author_id": 84057953,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ai-interviewer:nonebot_plugin_ai_interviewer": {
     "module_name": "nonebot_plugin_ai_interviewer",
     "project_link": "nonebot-plugin-ai-interviewer",
     "author_id": 16055526,
@@ -3296,7 +3280,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-chatglm:nonebot_plugin_chatglm": {
     "module_name": "nonebot_plugin_chatglm",
     "project_link": "nonebot-plugin-chatglm",
     "author_id": 34794409,
@@ -3312,7 +3296,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-chatglm6b:nonebot_plugin_chatglm6b": {
     "module_name": "nonebot_plugin_chatglm6b",
     "project_link": "nonebot-plugin-chatglm6b",
     "author_id": 117292352,
@@ -3328,7 +3312,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-helloworld:nonebot_plugin_helloworld": {
     "module_name": "nonebot_plugin_helloworld",
     "project_link": "nonebot-plugin-helloworld",
     "author_id": 66513481,
@@ -3340,7 +3324,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-overbracket:nonebot_plugin_overbracket": {
     "module_name": "nonebot_plugin_overbracket",
     "project_link": "nonebot-plugin-overbracket",
     "author_id": 37037264,
@@ -3352,21 +3336,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-miao:nonebot_plugin_miao": {
     "module_name": "nonebot_plugin_miao",
     "project_link": "nonebot-plugin-miao",
     "author_id": 63870437,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-questionmark:nonebot_plugin_questionmark": {
     "module_name": "nonebot_plugin_questionmark",
     "project_link": "nonebot-plugin-questionmark",
     "author_id": 52584526,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-genshin-cos:nonebot_plugin_genshin_cos": {
     "module_name": "nonebot_plugin_genshin_cos",
     "project_link": "nonebot-plugin-genshin-cos",
     "author_id": 106718176,
@@ -3386,7 +3370,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-chatgpt-plus:nonebot_plugin_chatgpt_plus": {
     "module_name": "nonebot_plugin_chatgpt_plus",
     "project_link": "nonebot-plugin-chatgpt-plus",
     "author_id": 55268546,
@@ -3402,14 +3386,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-sayoroll:nonebot_plugin_sayoroll": {
     "module_name": "nonebot_plugin_sayoroll",
     "project_link": "nonebot-plugin-sayoroll",
     "author_id": 52590027,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gw2:nonebot_plugin_gw2": {
     "module_name": "nonebot_plugin_gw2",
     "project_link": "nonebot-plugin-gw2",
     "author_id": 70925546,
@@ -3421,7 +3405,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-today-waifu:nonebot_plugin_today_waifu": {
     "module_name": "nonebot_plugin_today_waifu",
     "project_link": "nonebot-plugin-today-waifu",
     "author_id": 129576887,
@@ -3437,21 +3421,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-sleep:nonebot_plugin_sleep": {
     "module_name": "nonebot_plugin_sleep",
     "project_link": "nonebot-plugin-sleep",
     "author_id": 52590027,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-api-paddle:nonebot_api_paddle": {
     "module_name": "nonebot_api_paddle",
     "project_link": "nonebot-api-paddle",
     "author_id": 69547456,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-chatppt:nonebot_plugin_chatppt": {
     "module_name": "nonebot_plugin_chatppt",
     "project_link": "nonebot-plugin-chatppt",
     "author_id": 16055526,
@@ -3463,7 +3447,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-steam-game-status:nonebot_plugin_steam_game_status": {
     "module_name": "nonebot_plugin_steam_game_status",
     "project_link": "nonebot-plugin-steam-game-status",
     "author_id": 57703506,
@@ -3475,7 +3459,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bilichat:nonebot_plugin_bilichat": {
     "module_name": "nonebot_plugin_bilichat",
     "project_link": "nonebot-plugin-bilichat",
     "author_id": 40534114,
@@ -3491,7 +3475,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-genshinuid:GenshinUID": {
     "module_name": "GenshinUID",
     "project_link": "nonebot-plugin-genshinuid",
     "author_id": 55526518,
@@ -3507,7 +3491,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-blive-danmaku:nonebot_plugin_blive_danmaku": {
     "module_name": "nonebot_plugin_blive_danmaku",
     "project_link": "nonebot-plugin-blive-danmaku",
     "author_id": 14540861,
@@ -3519,7 +3503,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-clock:nonebot_plugin_clock": {
     "module_name": "nonebot_plugin_clock",
     "project_link": "nonebot-plugin-clock",
     "author_id": 57753690,
@@ -3531,7 +3515,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-SDGPT:nonebot_plugin_SDGPT": {
     "module_name": "nonebot_plugin_SDGPT",
     "project_link": "nonebot-plugin-SDGPT",
     "author_id": 52259890,
@@ -3547,21 +3531,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-fuckyou:nonebot_plugin_fuckyou": {
     "module_name": "nonebot_plugin_fuckyou",
     "project_link": "nonebot-plugin-fuckyou",
     "author_id": 59048777,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-pokemonfusion:nonebot_plugin_pokemonfusion": {
     "module_name": "nonebot_plugin_pokemonfusion",
     "project_link": "nonebot-plugin-pokemonfusion",
     "author_id": 112180508,
     "tags": [],
     "is_official": false
   },
-  {
+  "tatarubot2:tatarubot2": {
     "module_name": "tatarubot2",
     "project_link": "tatarubot2",
     "author_id": 44492123,
@@ -3573,7 +3557,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-talk-with-chatgpt:nonebot_plugin_talk_with_chatgpt": {
     "module_name": "nonebot_plugin_talk_with_chatgpt",
     "project_link": "nonebot-plugin-talk-with-chatgpt",
     "author_id": 31379266,
@@ -3585,7 +3569,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-osuverify:nonebot_plugin_osuverify": {
     "module_name": "nonebot_plugin_osuverify",
     "project_link": "nonebot-plugin-osuverify",
     "author_id": 52590027,
@@ -3597,7 +3581,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bilifan:nonebot_plugin_bilifan": {
     "module_name": "nonebot_plugin_bilifan",
     "project_link": "nonebot-plugin-bilifan",
     "author_id": 70925546,
@@ -3609,7 +3593,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-akinator:nonebot_plugin_akinator": {
     "module_name": "nonebot_plugin_akinator",
     "project_link": "nonebot-plugin-akinator",
     "author_id": 59048777,
@@ -3625,7 +3609,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-rename:nonebot_plugin_rename": {
     "module_name": "nonebot_plugin_rename",
     "project_link": "nonebot-plugin-rename",
     "author_id": 100580891,
@@ -3637,14 +3621,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-appinsights:nonebot_plugin_appinsights": {
     "module_name": "nonebot_plugin_appinsights",
     "project_link": "nonebot-plugin-appinsights",
     "author_id": 41534161,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-brainfuck:nonebot_plugin_brainfuck": {
     "module_name": "nonebot_plugin_brainfuck",
     "project_link": "nonebot-plugin-brainfuck",
     "author_id": 19896796,
@@ -3660,14 +3644,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-coderun:nonebot-plugin-coderun": {
     "module_name": "nonebot-plugin-coderun",
     "project_link": "nonebot-plugin-coderun",
     "author_id": 91423824,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-abot-place:nonebot_plugin_abot_place": {
     "module_name": "nonebot_plugin_abot_place",
     "project_link": "nonebot-plugin-abot-place",
     "author_id": 59153990,
@@ -3683,7 +3667,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-megumin:nonebot_plugin_megumin": {
     "module_name": "nonebot_plugin_megumin",
     "project_link": "nonebot-plugin-megumin",
     "author_id": 99666950,
@@ -3699,7 +3683,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-manga-translator:nonebot_plugin_manga_translator": {
     "module_name": "nonebot_plugin_manga_translator",
     "project_link": "nonebot-plugin-manga-translator",
     "author_id": 123555887,
@@ -3715,7 +3699,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-watermarker:nonebot_plugin_watermarker": {
     "module_name": "nonebot_plugin_watermarker",
     "project_link": "nonebot-plugin-watermarker",
     "author_id": 91937041,
@@ -3731,21 +3715,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-starrail-calendar:nonebot_plugin_starrail_calendar": {
     "module_name": "nonebot_plugin_starrail_calendar",
     "project_link": "nonebot-plugin-starrail-calendar",
     "author_id": 17716585,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wordle-help:nonebot_plugin_wordle_help": {
     "module_name": "nonebot_plugin_wordle_help",
     "project_link": "nonebot-plugin-wordle-help",
     "author_id": 87489040,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-csgo-case-simulator:nonebot-plugin-csgo-case-simulator": {
     "module_name": "nonebot-plugin-csgo-case-simulator",
     "project_link": "nonebot-plugin-csgo-case-simulator",
     "author_id": 11494827,
@@ -3761,21 +3745,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-callapi:nonebot_plugin_callapi": {
     "module_name": "nonebot_plugin_callapi",
     "project_link": "nonebot-plugin-callapi",
     "author_id": 59048777,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-penguin:nonebot_plugin_penguin": {
     "module_name": "nonebot_plugin_penguin",
     "project_link": "nonebot-plugin-penguin",
     "author_id": 57004769,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-spark-gpt:nonebot_plugin_spark_gpt": {
     "module_name": "nonebot_plugin_spark_gpt",
     "project_link": "nonebot-plugin-spark-gpt",
     "author_id": 69547456,
@@ -3791,14 +3775,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-logpile:nonebot_plugin_logpile": {
     "module_name": "nonebot_plugin_logpile",
     "project_link": "nonebot-plugin-logpile",
     "author_id": 66513481,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-arkgacha:nonebot_plugin_arkgacha": {
     "module_name": "nonebot_plugin_arkgacha",
     "project_link": "nonebot-plugin-arkgacha",
     "author_id": 42648639,
@@ -3818,14 +3802,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-og:nonebot_plugin_og": {
     "module_name": "nonebot_plugin_og",
     "project_link": "nonebot-plugin-og",
     "author_id": 110453675,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-hoshino-sign:nonebot_plugin_hoshino_sign": {
     "module_name": "nonebot_plugin_hoshino_sign",
     "project_link": "nonebot-plugin-hoshino-sign",
     "author_id": 66541860,
@@ -3841,7 +3825,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-multincm:nonebot_plugin_multincm": {
     "module_name": "nonebot_plugin_multincm",
     "project_link": "nonebot-plugin-multincm",
     "author_id": 59048777,
@@ -3857,7 +3841,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-smallapi:nonebot_plugin_smallapi": {
     "module_name": "nonebot_plugin_smallapi",
     "project_link": "nonebot-plugin-smallapi",
     "author_id": 91947491,
@@ -3873,14 +3857,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-p5generator:nonebot_plugin_p5generator": {
     "module_name": "nonebot_plugin_p5generator",
     "project_link": "nonebot-plugin-p5generator",
     "author_id": 58218656,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-sd-webui:nonebot_plugin_sd_webui": {
     "module_name": "nonebot_plugin_sd_webui",
     "project_link": "nonebot-plugin-sd-webui",
     "author_id": 49489433,
@@ -3892,14 +3876,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-session:nonebot_plugin_session": {
     "module_name": "nonebot_plugin_session",
     "project_link": "nonebot-plugin-session",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-pluginupdatecheck:nonebot_plugin_pluginupdatecheck": {
     "module_name": "nonebot_plugin_pluginupdatecheck",
     "project_link": "nonebot-plugin-pluginupdatecheck",
     "author_id": 58218656,
@@ -3911,7 +3895,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-stockhelper:nonebot_plugin_stockhelper": {
     "module_name": "nonebot_plugin_stockhelper",
     "project_link": "nonebot-plugin-stockhelper",
     "author_id": 77315378,
@@ -3923,7 +3907,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-githubcard:nonebot_plugin_githubcard": {
     "module_name": "nonebot_plugin_githubcard",
     "project_link": "nonebot-plugin-githubcard",
     "author_id": 56375835,
@@ -3935,14 +3919,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-lua:nonebot_plugin_lua": {
     "module_name": "nonebot_plugin_lua",
     "project_link": "nonebot-plugin-lua",
     "author_id": 50922489,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-cube:nonebot_plugin_cube": {
     "module_name": "nonebot_plugin_cube",
     "project_link": "nonebot-plugin-cube",
     "author_id": 109729945,
@@ -3958,14 +3942,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-homo-mathematician:nonebot_plugin_homo_mathematician": {
     "module_name": "nonebot_plugin_homo_mathematician",
     "project_link": "nonebot-plugin-homo-mathematician",
     "author_id": 87489040,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-puzzle:nonebot_plugin_puzzle": {
     "module_name": "nonebot_plugin_puzzle",
     "project_link": "nonebot-plugin-puzzle",
     "author_id": 109729945,
@@ -3985,7 +3969,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-herocard:nonebot_plugin_herocard": {
     "module_name": "nonebot_plugin_herocard",
     "project_link": "nonebot-plugin-herocard",
     "author_id": 41467241,
@@ -4005,7 +3989,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-nagabus:nonebot_plugin_nagabus": {
     "module_name": "nonebot_plugin_nagabus",
     "project_link": "nonebot-plugin-nagabus",
     "author_id": 17331698,
@@ -4017,7 +4001,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-random-draw:nonebot_plugin_random_draw": {
     "module_name": "nonebot_plugin_random_draw",
     "project_link": "nonebot-plugin-random-draw",
     "author_id": 40910637,
@@ -4029,7 +4013,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-stable-diffusion-diao:nonebot_plugin_stable_diffusion_diao": {
     "module_name": "nonebot_plugin_stable_diffusion_diao",
     "project_link": "nonebot-plugin-stable-diffusion-diao",
     "author_id": 126318917,
@@ -4045,7 +4029,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-al:nonebot_plugin_al": {
     "module_name": "nonebot_plugin_al",
     "project_link": "nonebot-plugin-al",
     "author_id": 70925546,
@@ -4057,14 +4041,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-escape-url:nonebot_plugin_escape_url": {
     "module_name": "nonebot_plugin_escape_url",
     "project_link": "nonebot-plugin-escape-url",
     "author_id": 17331698,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-twitter:nonebot_plugin_twitter": {
     "module_name": "nonebot_plugin_twitter",
     "project_link": "nonebot-plugin-twitter",
     "author_id": 57703506,
@@ -4076,7 +4060,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-pcrjjc:nonebot_plugin_pcrjjc": {
     "module_name": "nonebot_plugin_pcrjjc",
     "project_link": "nonebot-plugin-pcrjjc",
     "author_id": 46278371,
@@ -4092,7 +4076,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-audiocraft:nonebot_plugin_audiocraft": {
     "module_name": "nonebot_plugin_audiocraft",
     "project_link": "nonebot-plugin-audiocraft",
     "author_id": 16055526,
@@ -4104,7 +4088,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bili-push:nonebot_plugin_bili_push": {
     "module_name": "nonebot_plugin_bili_push",
     "project_link": "nonebot-plugin-bili-push",
     "author_id": 109544213,
@@ -4116,7 +4100,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-warthunder-player-check:nonebot_plugin_warthunder_player_check": {
     "module_name": "nonebot_plugin_warthunder_player_check",
     "project_link": "nonebot-plugin-warthunder-player-check",
     "author_id": 110895144,
@@ -4128,14 +4112,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-follow-withdraw:nonebot_plugin_follow_withdraw": {
     "module_name": "nonebot_plugin_follow_withdraw",
     "project_link": "nonebot-plugin-follow-withdraw",
     "author_id": 63870437,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ocgbot-v2:nonebot_plugin_ocgbot_v2": {
     "module_name": "nonebot_plugin_ocgbot_v2",
     "project_link": "nonebot-plugin-ocgbot-v2",
     "author_id": 76525116,
@@ -4151,7 +4135,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-helltide:nonebot_plugin_helltide": {
     "module_name": "nonebot_plugin_helltide",
     "project_link": "nonebot-plugin-helltide",
     "author_id": 2779686,
@@ -4167,14 +4151,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-userinfo:nonebot_plugin_userinfo": {
     "module_name": "nonebot_plugin_userinfo",
     "project_link": "nonebot-plugin-userinfo",
     "author_id": 33149974,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-poke:nonebot_plugin_poke": {
     "module_name": "nonebot_plugin_poke",
     "project_link": "nonebot-plugin-poke",
     "author_id": 70925546,
@@ -4186,14 +4170,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-friends:nonebot_plugin_friends": {
     "module_name": "nonebot_plugin_friends",
     "project_link": "nonebot-plugin-friends",
     "author_id": 70925546,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-update:nonebot_plugin_update": {
     "module_name": "nonebot_plugin_update",
     "project_link": "nonebot-plugin-update",
     "author_id": 59153990,
@@ -4209,7 +4193,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-cp-broadcast:nonebot_plugin_cp_broadcast": {
     "module_name": "nonebot_plugin_cp_broadcast",
     "project_link": "nonebot-plugin-cp-broadcast",
     "author_id": 103566602,
@@ -4225,7 +4209,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-cfassistant:nonebot_plugin_cfassistant": {
     "module_name": "nonebot_plugin_cfassistant",
     "project_link": "nonebot-plugin-cfassistant",
     "author_id": 24607145,
@@ -4241,7 +4225,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-splatoon3-schedule:nonebot_plugin_splatoon3_schedule": {
     "module_name": "nonebot_plugin_splatoon3_schedule",
     "project_link": "nonebot-plugin-splatoon3-schedule",
     "author_id": 53274578,
@@ -4253,7 +4237,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-capoo:nonebot_plugin_capoo": {
     "module_name": "nonebot_plugin_capoo",
     "project_link": "nonebot-plugin-capoo",
     "author_id": 103566602,
@@ -4265,14 +4249,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-eventexpiry:nonebot_plugin_eventexpiry": {
     "module_name": "nonebot_plugin_eventexpiry",
     "project_link": "nonebot-plugin-eventexpiry",
     "author_id": 66513481,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-nobahpicture:nonebot_plugin_nobahpicture": {
     "module_name": "nonebot_plugin_nobahpicture",
     "project_link": "nonebot-plugin-nobahpicture",
     "author_id": 54620759,
@@ -4292,7 +4276,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-blocker:nonebot_plugin_blocker": {
     "module_name": "nonebot_plugin_blocker",
     "project_link": "nonebot-plugin-blocker",
     "author_id": 41883458,
@@ -4304,7 +4288,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-picture-api:nonebot_plugin_picture_api": {
     "module_name": "nonebot_plugin_picture_api",
     "project_link": "nonebot-plugin-picture-api",
     "author_id": 57926506,
@@ -4316,7 +4300,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wenan:nonebot_plugin_wenan": {
     "module_name": "nonebot_plugin_wenan",
     "project_link": "nonebot-plugin-wenan",
     "author_id": 57926506,
@@ -4328,7 +4312,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-pjsk:nonebot_plugin_pjsk": {
     "module_name": "nonebot_plugin_pjsk",
     "project_link": "nonebot-plugin-pjsk",
     "author_id": 70925546,
@@ -4344,7 +4328,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mongodb:nonebot_plugin_mongodb": {
     "module_name": "nonebot_plugin_mongodb",
     "project_link": "nonebot-plugin-mongodb",
     "author_id": 40534114,
@@ -4360,7 +4344,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-templates:nonebot_plugin_templates": {
     "module_name": "nonebot_plugin_templates",
     "project_link": "nonebot-plugin-templates",
     "author_id": 69547456,
@@ -4376,7 +4360,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-pokesomeone:nonebot_plugin_pokesomeone": {
     "module_name": "nonebot_plugin_pokesomeone",
     "project_link": "nonebot-plugin-pokesomeone",
     "author_id": 69547456,
@@ -4388,7 +4372,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-dall-e:nonebot_plugin_dall-e": {
     "module_name": "nonebot_plugin_dall-e",
     "project_link": "nonebot-plugin-dall-e",
     "author_id": 102890277,
@@ -4404,14 +4388,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-tempfile:nonebot_plugin_tempfile": {
     "module_name": "nonebot_plugin_tempfile",
     "project_link": "nonebot-plugin-tempfile",
     "author_id": 37037264,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-disconnect-notice:nonebot_plugin_disconnect_notice": {
     "module_name": "nonebot_plugin_disconnect_notice",
     "project_link": "nonebot-plugin-disconnect-notice",
     "author_id": 53274578,
@@ -4431,7 +4415,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-BotMailNotice:nonebot_plugin_BotMailNotice": {
     "module_name": "nonebot_plugin_BotMailNotice",
     "project_link": "nonebot-plugin-BotMailNotice",
     "author_id": 78628186,
@@ -4443,7 +4427,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-theworld:nonebot_plugin_theworld": {
     "module_name": "nonebot_plugin_theworld",
     "project_link": "nonebot-plugin-theworld",
     "author_id": 66513481,
@@ -4459,7 +4443,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-nonememe:nonebot_plugin_nonememe": {
     "module_name": "nonebot_plugin_nonememe",
     "project_link": "nonebot-plugin-nonememe",
     "author_id": 59048777,
@@ -4471,7 +4455,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-aujob:nonebot_plugin_aujob": {
     "module_name": "nonebot_plugin_aujob",
     "project_link": "nonebot-plugin-aujob",
     "author_id": 110767171,
@@ -4487,7 +4471,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bind:nonebot_plugin_bind": {
     "module_name": "nonebot_plugin_bind",
     "project_link": "nonebot-plugin-bind",
     "author_id": 69547456,
@@ -4503,7 +4487,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-savepic:nonebot_plugin_savepic": {
     "module_name": "nonebot_plugin_savepic",
     "project_link": "nonebot-plugin-savepic",
     "author_id": 32036413,
@@ -4515,7 +4499,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-lostark-wandering-trader:nonebot_plugin_lostark_wandering_trader": {
     "module_name": "nonebot_plugin_lostark_wandering_trader",
     "project_link": "nonebot-plugin-lostark-wandering-trader",
     "author_id": 11713728,
@@ -4527,7 +4511,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-csornament:nonebot_plugin_csornament": {
     "module_name": "nonebot_plugin_csornament",
     "project_link": "nonebot-plugin-csornament",
     "author_id": 129657153,
@@ -4539,7 +4523,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mcversion:nonebot_plugin_mcversion": {
     "module_name": "nonebot_plugin_mcversion",
     "project_link": "nonebot-plugin-mcversion",
     "author_id": 110646806,
@@ -4555,7 +4539,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-muteme:nonebot_plugin_muteme": {
     "module_name": "nonebot_plugin_muteme",
     "project_link": "nonebot-plugin-muteme",
     "author_id": 96647974,
@@ -4571,7 +4555,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-jx3:nonebot_plugin_jx3": {
     "module_name": "nonebot_plugin_jx3",
     "project_link": "nonebot-plugin-jx3",
     "author_id": 61312850,
@@ -4587,7 +4571,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-xinghuo-api:nonebot_plugin_xinghuo_api": {
     "module_name": "nonebot_plugin_xinghuo_api",
     "project_link": "nonebot-plugin-xinghuo-api",
     "author_id": 16055526,
@@ -4603,7 +4587,7 @@
     ],
     "is_official": false
   },
-  {
+  "dicergirl:dicergirl": {
     "module_name": "dicergirl",
     "project_link": "dicergirl",
     "author_id": 46275354,
@@ -4615,7 +4599,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-uvdiviner:nonebot_plugin_uvdiviner": {
     "module_name": "nonebot_plugin_uvdiviner",
     "project_link": "nonebot-plugin-uvdiviner",
     "author_id": 46275354,
@@ -4627,7 +4611,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-push:nonebot_plugin_push": {
     "module_name": "nonebot_plugin_push",
     "project_link": "nonebot-plugin-push",
     "author_id": 44370805,
@@ -4647,14 +4631,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-sudo:nonebot_plugin_sudo": {
     "module_name": "nonebot_plugin_sudo",
     "project_link": "nonebot-plugin-sudo",
     "author_id": 104149371,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-arxivRSS:nonebot_plugin_arxivRSS": {
     "module_name": "nonebot_plugin_arxivRSS",
     "project_link": "nonebot-plugin-arxivRSS",
     "author_id": 83060644,
@@ -4674,7 +4658,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-anime-trace:nonebot_plugin_anime_trace": {
     "module_name": "nonebot_plugin_anime_trace",
     "project_link": "nonebot-plugin-anime-trace",
     "author_id": 53679884,
@@ -4686,7 +4670,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-send-message:nonebot_plugin_send_message": {
     "module_name": "nonebot_plugin_send_message",
     "project_link": "nonebot-plugin-send-message",
     "author_id": 99388013,
@@ -4698,7 +4682,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-requests:nonebot_plugin_requests": {
     "module_name": "nonebot_plugin_requests",
     "project_link": "nonebot-plugin-requests",
     "author_id": 41713304,
@@ -4710,7 +4694,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-shutup:nonebot_plugin_shutup": {
     "module_name": "nonebot_plugin_shutup",
     "project_link": "nonebot-plugin-shutup",
     "author_id": 70925546,
@@ -4722,7 +4706,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-simple-httpcat:nonebot_plugin_simple_httpcat": {
     "module_name": "nonebot_plugin_simple_httpcat",
     "project_link": "nonebot-plugin-simple-httpcat",
     "author_id": 96647974,
@@ -4734,7 +4718,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-qrcode2:nonebot_plugin_qrcode2": {
     "module_name": "nonebot_plugin_qrcode2",
     "project_link": "nonebot-plugin-qrcode2",
     "author_id": 53679884,
@@ -4746,7 +4730,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-fakemsg:nonebot_plugin_fakemsg": {
     "module_name": "nonebot_plugin_fakemsg",
     "project_link": "nonebot-plugin-fakemsg",
     "author_id": 106718176,
@@ -4758,7 +4742,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-alchelper:nonebot_plugin_alchelper": {
     "module_name": "nonebot_plugin_alchelper",
     "project_link": "nonebot-plugin-alchelper",
     "author_id": 42648639,
@@ -4770,7 +4754,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-souti:nonebot_plugin_souti": {
     "module_name": "nonebot_plugin_souti",
     "project_link": "nonebot-plugin-souti",
     "author_id": 124417044,
@@ -4782,7 +4766,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-helper-plus:nonebot_plugin_helper_plus": {
     "module_name": "nonebot_plugin_helper_plus",
     "project_link": "nonebot-plugin-helper-plus",
     "author_id": 83159422,
@@ -4798,7 +4782,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wearskirt:nonebot_plugin_wearskirt": {
     "module_name": "nonebot_plugin_wearskirt",
     "project_link": "nonebot-plugin-wearskirt",
     "author_id": 74490140,
@@ -4810,7 +4794,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-skland-arksign:nonebot_plugin_skland_arksign": {
     "module_name": "nonebot_plugin_skland_arksign",
     "project_link": "nonebot-plugin-skland-arksign",
     "author_id": 44727214,
@@ -4830,14 +4814,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-group-whitelist:nonebot_plugin_group_whitelist": {
     "module_name": "nonebot_plugin_group_whitelist",
     "project_link": "nonebot-plugin-group-whitelist",
     "author_id": 121035454,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ernie:nonebot_plugin_ernie": {
     "module_name": "nonebot_plugin_ernie",
     "project_link": "nonebot-plugin-ernie",
     "author_id": 39023047,
@@ -4849,7 +4833,7 @@
     ],
     "is_official": false
   },
-  {
+  "teenstudy:TeenStudy": {
     "module_name": "TeenStudy",
     "project_link": "teenstudy",
     "author_id": 143619319,
@@ -4869,7 +4853,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-video-api:nonebot_plugin_video_api": {
     "module_name": "nonebot_plugin_video_api",
     "project_link": "nonebot-plugin-video-api",
     "author_id": 57926506,
@@ -4881,7 +4865,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ottohzys:nonebot_plugin_ottohzys": {
     "module_name": "nonebot_plugin_ottohzys",
     "project_link": "nonebot-plugin-ottohzys",
     "author_id": 59048777,
@@ -4901,7 +4885,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ability:nonebot_plugin_ability": {
     "module_name": "nonebot_plugin_ability",
     "project_link": "nonebot-plugin-ability",
     "author_id": 110453675,
@@ -4913,7 +4897,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-agent:nonebot_plugin_agent": {
     "module_name": "nonebot_plugin_agent",
     "project_link": "nonebot-plugin-agent",
     "author_id": 56953648,
@@ -4925,7 +4909,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-blockwords:nonebot_plugin_blockwords": {
     "module_name": "nonebot_plugin_blockwords",
     "project_link": "nonebot-plugin-blockwords",
     "author_id": 50488999,
@@ -4945,14 +4929,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-matchreminder:nonebot_plugin_matchreminder": {
     "module_name": "nonebot_plugin_matchreminder",
     "project_link": "nonebot-plugin-matchreminder",
     "author_id": 135496272,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-eop-ai:nonebot_plugin_eop_ai": {
     "module_name": "nonebot_plugin_eop_ai",
     "project_link": "nonebot-plugin-eop-ai",
     "author_id": 31379266,
@@ -4972,7 +4956,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-playercheck:nonebot_plugin_playercheck": {
     "module_name": "nonebot_plugin_playercheck",
     "project_link": "nonebot-plugin-playercheck",
     "author_id": 38505121,
@@ -4988,7 +4972,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-op-finder:nonebot_plugin_op_finder": {
     "module_name": "nonebot_plugin_op_finder",
     "project_link": "nonebot-plugin-op-finder",
     "author_id": 29861280,
@@ -5000,21 +4984,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-morep-finder:nonebot_plugin_morep_finder": {
     "module_name": "nonebot_plugin_morep_finder",
     "project_link": "nonebot-plugin-morep-finder",
     "author_id": 29861280,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-yesman:nonebot-plugin-yesman": {
     "module_name": "nonebot-plugin-yesman",
     "project_link": "nonebot-plugin-yesman",
     "author_id": 89695226,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-fgoavatarguess:nonebot_plugin_fgoavatarguess": {
     "module_name": "nonebot_plugin_fgoavatarguess",
     "project_link": "nonebot-plugin-fgoavatarguess",
     "author_id": 114396889,
@@ -5026,7 +5010,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-vrchat:nonebot_plugin_vrchat": {
     "module_name": "nonebot_plugin_vrchat",
     "project_link": "nonebot-plugin-vrchat",
     "author_id": 70925546,
@@ -5038,7 +5022,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-batitle:nonebot_plugin_batitle": {
     "module_name": "nonebot_plugin_batitle",
     "project_link": "nonebot-plugin-batitle",
     "author_id": 41883458,
@@ -5050,7 +5034,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-maimaidx:nonebot_plugin_maimaidx": {
     "module_name": "nonebot_plugin_maimaidx",
     "project_link": "nonebot-plugin-maimaidx",
     "author_id": 65105396,
@@ -5062,7 +5046,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-getbapics:nonebot_plugin_getbapics": {
     "module_name": "nonebot_plugin_getbapics",
     "project_link": "nonebot-plugin-getbapics",
     "author_id": 144128876,
@@ -5078,7 +5062,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-make-choice:nonebot_plugin_make_choice": {
     "module_name": "nonebot_plugin_make_choice",
     "project_link": "nonebot-plugin-make-choice",
     "author_id": 57581480,
@@ -5090,14 +5074,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-scheduled-broadcast:nonebot_plugin_scheduled_broadcast": {
     "module_name": "nonebot_plugin_scheduled_broadcast",
     "project_link": "nonebot-plugin-scheduled-broadcast",
     "author_id": 33901373,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-any:nonebot_plugin_any": {
     "module_name": "nonebot_plugin_any",
     "project_link": "nonebot-plugin-any",
     "author_id": 81250368,
@@ -5117,7 +5101,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bertvits2:nonebot_plugin_bertvits2": {
     "module_name": "nonebot_plugin_bertvits2",
     "project_link": "nonebot-plugin-bertvits2",
     "author_id": 52267304,
@@ -5129,7 +5113,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wake-on-lan:nonebot_plugin_wake_on_lan": {
     "module_name": "nonebot_plugin_wake_on_lan",
     "project_link": "nonebot-plugin-wake-on-lan",
     "author_id": 52388789,
@@ -5145,7 +5129,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bingimagecreator:nonebot_plugin_bingimagecreator": {
     "module_name": "nonebot_plugin_bingimagecreator",
     "project_link": "nonebot-plugin-bingimagecreator",
     "author_id": 16055526,
@@ -5161,42 +5145,42 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-user:nonebot_plugin_user": {
     "module_name": "nonebot_plugin_user",
     "project_link": "nonebot-plugin-user",
     "author_id": 5219550,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-shorturl:nonebot_plugin_shorturl": {
     "module_name": "nonebot_plugin_shorturl",
     "project_link": "nonebot-plugin-shorturl",
     "author_id": 14922941,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-filehost:nonebot_plugin_filehost": {
     "module_name": "nonebot_plugin_filehost",
     "project_link": "nonebot-plugin-filehost",
     "author_id": 32300164,
     "tags": [],
     "is_official": true
   },
-  {
+  "nonebot-plugin-smms:nonebot_plugin_smms": {
     "module_name": "nonebot_plugin_smms",
     "project_link": "nonebot-plugin-smms",
     "author_id": 44370805,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-nsfw:nonebot_plugin_nsfw": {
     "module_name": "nonebot_plugin_nsfw",
     "project_link": "nonebot-plugin-nsfw",
     "author_id": 48091591,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-batarot:nonebot_plugin_batarot": {
     "module_name": "nonebot_plugin_batarot",
     "project_link": "nonebot-plugin-batarot",
     "author_id": 143330850,
@@ -5208,14 +5192,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-cnrail:nonebot_plugin_cnrail": {
     "module_name": "nonebot_plugin_cnrail",
     "project_link": "nonebot-plugin-cnrail",
     "author_id": 59048777,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-longtu:nonebot_plugin_longtu": {
     "module_name": "nonebot_plugin_longtu",
     "project_link": "nonebot-plugin-longtu",
     "author_id": 143330850,
@@ -5227,7 +5211,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-riffusion:nonebot_plugin_riffusion": {
     "module_name": "nonebot_plugin_riffusion",
     "project_link": "nonebot-plugin-riffusion",
     "author_id": 59048777,
@@ -5239,7 +5223,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-phigros:nonebot_plugin_phigros": {
     "module_name": "nonebot_plugin_phigros",
     "project_link": "nonebot-plugin-phigros",
     "author_id": 96647974,
@@ -5251,7 +5235,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-antimonkey:nonebot_plugin_antimonkey": {
     "module_name": "nonebot_plugin_antimonkey",
     "project_link": "nonebot-plugin-antimonkey",
     "author_id": 131594704,
@@ -5267,7 +5251,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-waiter:nonebot_plugin_waiter": {
     "module_name": "nonebot_plugin_waiter",
     "project_link": "nonebot-plugin-waiter",
     "author_id": 42648639,
@@ -5279,7 +5263,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-imagemaster:nonebot_plugin_imagemaster": {
     "module_name": "nonebot_plugin_imagemaster",
     "project_link": "nonebot-plugin-imagemaster",
     "author_id": 131594704,
@@ -5291,7 +5275,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-nikke:nonebot_plugin_nikke": {
     "module_name": "nonebot_plugin_nikke",
     "project_link": "nonebot-plugin-nikke",
     "author_id": 143330850,
@@ -5303,7 +5287,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mcpic:nonebot_plugin_mcpic": {
     "module_name": "nonebot_plugin_mcpic",
     "project_link": "nonebot-plugin-mcpic",
     "author_id": 77601125,
@@ -5323,42 +5307,42 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-pingti:nonebot_plugin_pingti": {
     "module_name": "nonebot_plugin_pingti",
     "project_link": "nonebot-plugin-pingti",
     "author_id": 59048777,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wx4:nonebot_plugin_wx4": {
     "module_name": "nonebot_plugin_wx4",
     "project_link": "nonebot-plugin-wx4",
     "author_id": 72342321,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mypower:nonebot_plugin_mypower": {
     "module_name": "nonebot_plugin_mypower",
     "project_link": "nonebot-plugin-mypower",
     "author_id": 118712549,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bard:nonebot_plugin_bard": {
     "module_name": "nonebot_plugin_bard",
     "project_link": "nonebot-plugin-bard",
     "author_id": 16055526,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-nekoimage:nonebot_plugin_nekoimage": {
     "module_name": "nonebot_plugin_nekoimage",
     "project_link": "nonebot-plugin-nekoimage",
     "author_id": 114645197,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-finallines:nonebot_plugin_finallines": {
     "module_name": "nonebot_plugin_finallines",
     "project_link": "nonebot-plugin-finallines",
     "author_id": 143330850,
@@ -5370,7 +5354,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gemini:nonebot_plugin_gemini": {
     "module_name": "nonebot_plugin_gemini",
     "project_link": "nonebot-plugin-gemini",
     "author_id": 55650833,
@@ -5382,7 +5366,7 @@
     ],
     "is_official": false
   },
-  {
+  "haruka_bot_red:haruka_bot_red": {
     "module_name": "haruka_bot_red",
     "project_link": "haruka_bot_red",
     "author_id": 80164656,
@@ -5394,35 +5378,35 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-enatfrp:nonebot_plugin_enatfrp": {
     "module_name": "nonebot_plugin_enatfrp",
     "project_link": "nonebot-plugin-enatfrp",
     "author_id": 61458340,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-nezha:nonebot_plugin_nezha": {
     "module_name": "nonebot_plugin_nezha",
     "project_link": "nonebot-plugin-nezha",
     "author_id": 61458340,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-randpic:nonebot_plugin_randpic": {
     "module_name": "nonebot_plugin_randpic",
     "project_link": "nonebot-plugin-randpic",
     "author_id": 103566602,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-badrawcard:nonebot_plugin_BAdrawcard": {
     "module_name": "nonebot_plugin_BAdrawcard",
     "project_link": "nonebot-plugin-badrawcard",
     "author_id": 117559987,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gpt:nonebot_plugin_gpt": {
     "module_name": "nonebot_plugin_gpt",
     "project_link": "nonebot-plugin-gpt",
     "author_id": 57703506,
@@ -5434,14 +5418,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-easy-blacklist:nonebot_plugin_easy_blacklist": {
     "module_name": "nonebot_plugin_easy_blacklist",
     "project_link": "nonebot-plugin-easy-blacklist",
     "author_id": 99388013,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-reminder:nonebot_plugin_reminder": {
     "module_name": "nonebot_plugin_reminder",
     "project_link": "nonebot-plugin-reminder",
     "author_id": 38395332,
@@ -5453,7 +5437,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-chikari-yinpa:nonebot_plugin_chikari_yinpa": {
     "module_name": "nonebot_plugin_chikari_yinpa",
     "project_link": "nonebot-plugin-chikari-yinpa",
     "author_id": 121878042,
@@ -5465,7 +5449,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-splatoon3-nso:nonebot_plugin_splatoon3_nso": {
     "module_name": "nonebot_plugin_splatoon3_nso",
     "project_link": "nonebot-plugin-splatoon3-nso",
     "author_id": 53274578,
@@ -5477,7 +5461,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bf1marneserverlist:nonebot_plugin_bf1marneserverlist": {
     "module_name": "nonebot_plugin_bf1marneserverlist",
     "project_link": "nonebot-plugin-bf1marneserverlist",
     "author_id": 79032826,
@@ -5489,7 +5473,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-kawaii-status:nonebot_plugin_kawaii_status": {
     "module_name": "nonebot_plugin_kawaii_status",
     "project_link": "nonebot-plugin-kawaii-status",
     "author_id": 110453675,
@@ -5505,7 +5489,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-vits-tts:nonebot_plugin_vits_tts": {
     "module_name": "nonebot_plugin_vits_tts",
     "project_link": "nonebot-plugin-vits-tts",
     "author_id": 109732988,
@@ -5521,7 +5505,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-chatglm-plus:nonebot_plugin_chatglm_plus": {
     "module_name": "nonebot_plugin_chatglm_plus",
     "project_link": "nonebot-plugin-chatglm-plus",
     "author_id": 96647974,
@@ -5533,7 +5517,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-fishing:nonebot_plugin_fishing": {
     "module_name": "nonebot_plugin_fishing",
     "project_link": "nonebot-plugin-fishing",
     "author_id": 160833462,
@@ -5545,7 +5529,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-a2s-query:nonebot_plugin_a2s_query": {
     "module_name": "nonebot_plugin_a2s_query",
     "project_link": "nonebot-plugin-a2s-query",
     "author_id": 81429435,
@@ -5561,7 +5545,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-dice-narrator:nonebot_plugin_dice_narrator": {
     "module_name": "nonebot_plugin_dice_narrator",
     "project_link": "nonebot-plugin-dice-narrator",
     "author_id": 57167362,
@@ -5577,7 +5561,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-steam-info:nonebot_plugin_steam_info": {
     "module_name": "nonebot_plugin_steam_info",
     "project_link": "nonebot-plugin-steam-info",
     "author_id": 55650833,
@@ -5589,7 +5573,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-orangejuice:nonebot_plugin_orangejuice": {
     "module_name": "nonebot_plugin_orangejuice",
     "project_link": "nonebot-plugin-orangejuice",
     "author_id": 49135577,
@@ -5605,7 +5589,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot_plugin_md:nonebot_plugin_md": {
     "module_name": "nonebot_plugin_md",
     "project_link": "nonebot_plugin_md",
     "author_id": 70925546,
@@ -5617,7 +5601,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-duel:nonebot_plugin_duel": {
     "module_name": "nonebot_plugin_duel",
     "project_link": "nonebot-plugin-duel",
     "author_id": 109732988,
@@ -5629,7 +5613,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-pallas-repeater:nonebot_plugin_pallas_repeater": {
     "module_name": "nonebot_plugin_pallas_repeater",
     "project_link": "nonebot-plugin-pallas-repeater",
     "author_id": 109732988,
@@ -5641,7 +5625,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-humanaticstore:nonebot_plugin_humanaticstore": {
     "module_name": "nonebot_plugin_humanaticstore",
     "project_link": "nonebot-plugin-humanaticstore",
     "author_id": 160235071,
@@ -5657,7 +5641,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ghtiles:nonebot_plugin_ghtiles": {
     "module_name": "nonebot_plugin_ghtiles",
     "project_link": "nonebot-plugin-ghtiles",
     "author_id": 18106422,
@@ -5669,7 +5653,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-diffsinger:nonebot_plugin_diffsinger": {
     "module_name": "nonebot_plugin_diffsinger",
     "project_link": "nonebot-plugin-diffsinger",
     "author_id": 39423408,
@@ -5681,7 +5665,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-chikari-economy:nonebot_plugin_chikari_economy": {
     "module_name": "nonebot_plugin_chikari_economy",
     "project_link": "nonebot-plugin-chikari-economy",
     "author_id": 121878042,
@@ -5693,7 +5677,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-auto-bot-selector:nonebot_plugin_auto_bot_selector": {
     "module_name": "nonebot_plugin_auto_bot_selector",
     "project_link": "nonebot-plugin-auto-bot-selector",
     "author_id": 40534114,
@@ -5709,7 +5693,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-nai3:nonebot_plugin_nai3": {
     "module_name": "nonebot_plugin_nai3",
     "project_link": "nonebot-plugin-nai3",
     "author_id": 66541860,
@@ -5721,14 +5705,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-clovers:nonebot_plugin_clovers": {
     "module_name": "nonebot_plugin_clovers",
     "project_link": "nonebot-plugin-clovers",
     "author_id": 51886078,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-hx-yinying:nonebot_plugin_hx_yinying": {
     "module_name": "nonebot_plugin_hx_yinying",
     "project_link": "nonebot-plugin-hx-yinying",
     "author_id": 121207415,
@@ -5748,7 +5732,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-fhl:nonebot_plugin_fhl": {
     "module_name": "nonebot_plugin_fhl",
     "project_link": "nonebot-plugin-fhl",
     "author_id": 158065462,
@@ -5760,14 +5744,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-yinyu:nonebot_plugin_yinyu": {
     "module_name": "nonebot_plugin_yinyu",
     "project_link": "nonebot-plugin-yinyu",
     "author_id": 136897416,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-yinying-chat:nonebot_plugin_yinying_chat": {
     "module_name": "nonebot_plugin_yinying_chat",
     "project_link": "nonebot-plugin-yinying-chat",
     "author_id": 79129640,
@@ -5783,7 +5767,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-dcqg-relay:nonebot_plugin_dcqg_relay": {
     "module_name": "nonebot_plugin_dcqg_relay",
     "project_link": "nonebot-plugin-dcqg-relay",
     "author_id": 35159351,
@@ -5795,7 +5779,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-zsmeme:nonebot_plugin_zsmeme": {
     "module_name": "nonebot_plugin_zsmeme",
     "project_link": "nonebot-plugin-zsmeme",
     "author_id": 136897416,
@@ -5807,7 +5791,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-sanyao:nonebot_plugin_sanyao": {
     "module_name": "nonebot_plugin_sanyao",
     "project_link": "nonebot-plugin-sanyao",
     "author_id": 99971730,
@@ -5819,7 +5803,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-cyberfurry:nonebot_plugin_cyberfurry": {
     "module_name": "nonebot_plugin_cyberfurry",
     "project_link": "nonebot-plugin-cyberfurry",
     "author_id": 106443696,
@@ -5835,7 +5819,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-HelpWithPic:nonebot_plugin_helpwithpic": {
     "module_name": "nonebot_plugin_helpwithpic",
     "project_link": "nonebot-plugin-HelpWithPic",
     "author_id": 106443696,
@@ -5851,7 +5835,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-sticker-saver:nonebot_plugin_sticker_saver": {
     "module_name": "nonebot_plugin_sticker_saver",
     "project_link": "nonebot-plugin-sticker-saver",
     "author_id": 6457253,
@@ -5863,7 +5847,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-anime-downloader:nonebot_plugin_anime_downloader": {
     "module_name": "nonebot_plugin_anime_downloader",
     "project_link": "nonebot-plugin-anime-downloader",
     "author_id": 55650833,
@@ -5875,7 +5859,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-with-ai-agents:nonebot_plugin_with_ai_agents": {
     "module_name": "nonebot_plugin_with_ai_agents",
     "project_link": "nonebot-plugin-with-ai-agents",
     "author_id": 49857339,
@@ -5891,7 +5875,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-RanFurryPic:nonebot_plugin_RanFurryPic": {
     "module_name": "nonebot_plugin_RanFurryPic",
     "project_link": "nonebot-plugin-RanFurryPic",
     "author_id": 97278930,
@@ -5903,7 +5887,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-furryfusion:nonebot_plugin_furryfusion": {
     "module_name": "nonebot_plugin_furryfusion",
     "project_link": "nonebot-plugin-furryfusion",
     "author_id": 97278930,
@@ -5915,7 +5899,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mysticism:nonebot_plugin_mysticism": {
     "module_name": "nonebot_plugin_mysticism",
     "project_link": "nonebot-plugin-mysticism",
     "author_id": 32036413,
@@ -5935,7 +5919,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-tsugu-frontend:nonebot_plugin_tsugu_frontend": {
     "module_name": "nonebot_plugin_tsugu_frontend",
     "project_link": "nonebot-plugin-tsugu-frontend",
     "author_id": 55650833,
@@ -5947,7 +5931,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-kurogames:nonebot_plugin_kurogames": {
     "module_name": "nonebot_plugin_kurogames",
     "project_link": "nonebot-plugin-kurogames",
     "author_id": 36001297,
@@ -5967,7 +5951,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-valve-server-query:nonebot_plugin_valve_server_query": {
     "module_name": "nonebot_plugin_valve_server_query",
     "project_link": "nonebot-plugin-valve-server-query",
     "author_id": 98267824,
@@ -5987,7 +5971,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-sparkapi:nonebot_plugin_sparkapi": {
     "module_name": "nonebot_plugin_sparkapi",
     "project_link": "nonebot-plugin-sparkapi",
     "author_id": 145911132,
@@ -6007,7 +5991,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-tsugu-bangdream-bot:nonebot_plugin_tsugu_bangdream_bot": {
     "module_name": "nonebot_plugin_tsugu_bangdream_bot",
     "project_link": "nonebot-plugin-tsugu-bangdream-bot",
     "author_id": 68172940,
@@ -6019,14 +6003,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-calc24:nonebot_plugin_calc24": {
     "module_name": "nonebot_plugin_calc24",
     "project_link": "nonebot-plugin-calc24",
     "author_id": 139576615,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-nai3-bot:nonebot_plugin_nai3_bot": {
     "module_name": "nonebot_plugin_nai3_bot",
     "project_link": "nonebot-plugin-nai3-bot",
     "author_id": 16055526,
@@ -6042,7 +6026,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-dg-lab-play:nonebot_plugin_dg_lab_play": {
     "module_name": "nonebot_plugin_dg_lab_play",
     "project_link": "nonebot-plugin-dg-lab-play",
     "author_id": 63289359,
@@ -6062,7 +6046,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-authrespond:nonebot_plugin_authrespond": {
     "module_name": "nonebot_plugin_authrespond",
     "project_link": "nonebot-plugin-authrespond",
     "author_id": 106443696,
@@ -6082,7 +6066,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-shutdown-hook:nonebot_plugin_shutdown_hook": {
     "module_name": "nonebot_plugin_shutdown_hook",
     "project_link": "nonebot-plugin-shutdown-hook",
     "author_id": 32418823,
@@ -6094,7 +6078,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-plus-one:nonebot_plugin_plus_one": {
     "module_name": "nonebot_plugin_plus_one",
     "project_link": "nonebot-plugin-plus-one",
     "author_id": 49857339,
@@ -6110,7 +6094,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-aising:nonebot_plugin_aising": {
     "module_name": "nonebot_plugin_aising",
     "project_link": "nonebot-plugin-aising",
     "author_id": 149048350,
@@ -6126,7 +6110,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-qqshell:nonebot_plugin_qqshell": {
     "module_name": "nonebot_plugin_qqshell",
     "project_link": "nonebot-plugin-qqshell",
     "author_id": 49857339,
@@ -6138,14 +6122,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-lynchpined:nonebot_plugin_lynchpined": {
     "module_name": "nonebot_plugin_lynchpined",
     "project_link": "nonebot-plugin-lynchpined",
     "author_id": 30611816,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gakuenImasCalculator:nonebot_plugin_gakuenImasCalculator": {
     "module_name": "nonebot_plugin_gakuenImasCalculator",
     "project_link": "nonebot-plugin-gakuenImasCalculator",
     "author_id": 54504721,
@@ -6161,7 +6145,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-beauty-rater:nonebot_plugin_beauty_rater": {
     "module_name": "nonebot_plugin_beauty_rater",
     "project_link": "nonebot-plugin-beauty-rater",
     "author_id": 110453675,
@@ -6173,14 +6157,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-xjie-weather:nonebot_plugin_xjie_weather": {
     "module_name": "nonebot_plugin_xjie_weather",
     "project_link": "nonebot-plugin-xjie-weather",
     "author_id": 139576615,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wwgachalogs:nonebot_plugin_wwgachalogs": {
     "module_name": "nonebot_plugin_wwgachalogs",
     "project_link": "nonebot-plugin-wwgachalogs",
     "author_id": 61410850,
@@ -6192,7 +6176,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-saalc:nonebot_plugin_saalc": {
     "module_name": "nonebot_plugin_saalc",
     "project_link": "nonebot-plugin-saalc",
     "author_id": 57004769,
@@ -6208,7 +6192,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-easymarkdown:nonebot_plugin_easymarkdown": {
     "module_name": "nonebot_plugin_easymarkdown",
     "project_link": "nonebot-plugin-easymarkdown",
     "author_id": 131594704,
@@ -6220,7 +6204,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-multigpt:nonebot_plugin_multigpt": {
     "module_name": "nonebot_plugin_multigpt",
     "project_link": "nonebot-plugin-multigpt",
     "author_id": 135360021,
@@ -6240,7 +6224,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mcsm:nonebot_plugin_mcsm": {
     "module_name": "nonebot_plugin_mcsm",
     "project_link": "nonebot-plugin-mcsm",
     "author_id": 98267824,
@@ -6260,7 +6244,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-helldivers:nonebot_plugin_helldivers": {
     "module_name": "nonebot_plugin_helldivers",
     "project_link": "nonebot-plugin-helldivers",
     "author_id": 57581480,
@@ -6272,7 +6256,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mahjong-hand-guess:nonebot_plugin_mahjong_hand_guess": {
     "module_name": "nonebot_plugin_mahjong_hand_guess",
     "project_link": "nonebot-plugin-mahjong-hand-guess",
     "author_id": 56375835,
@@ -6284,7 +6268,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-asmr:nonebot_plugin_asmr": {
     "module_name": "nonebot_plugin_asmr",
     "project_link": "nonebot-plugin-asmr",
     "author_id": 149048350,
@@ -6300,7 +6284,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-eve-tool:nonebot_plugin_eve_tool": {
     "module_name": "nonebot_plugin_eve_tool",
     "project_link": "nonebot-plugin-eve-tool",
     "author_id": 95174933,
@@ -6316,7 +6300,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-daily-task:nonebot_plugin_daily_task": {
     "module_name": "nonebot_plugin_daily_task",
     "project_link": "nonebot-plugin-daily-task",
     "author_id": 45627292,
@@ -6328,7 +6312,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-biliforward:nonebot_plugin_biliforward": {
     "module_name": "nonebot_plugin_biliforward",
     "project_link": "nonebot-plugin-biliforward",
     "author_id": 61410850,
@@ -6344,7 +6328,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-obastatus:nonebot_plugin_obastatus": {
     "module_name": "nonebot_plugin_obastatus",
     "project_link": "nonebot-plugin-obastatus",
     "author_id": 63110083,
@@ -6356,7 +6340,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-dcqq-relay:nonebot_plugin_dcqq_relay": {
     "module_name": "nonebot_plugin_dcqq_relay",
     "project_link": "nonebot-plugin-dcqq-relay",
     "author_id": 35159351,
@@ -6368,7 +6352,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ncupdate:nonebot_plugin_ncupdate": {
     "module_name": "nonebot_plugin_ncupdate",
     "project_link": "nonebot-plugin-ncupdate",
     "author_id": 118712549,
@@ -6380,7 +6364,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-anymate:nonebot_plugin_anymate": {
     "module_name": "nonebot_plugin_anymate",
     "project_link": "nonebot-plugin-anymate",
     "author_id": 89532126,
@@ -6396,14 +6380,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-cfr2:nonebot_plugin_cfr2": {
     "module_name": "nonebot_plugin_cfr2",
     "project_link": "nonebot-plugin-cfr2",
     "author_id": 25610914,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-WWwiki:nonebot_plugin_WWwiki": {
     "module_name": "nonebot_plugin_WWwiki",
     "project_link": "nonebot-plugin-WWwiki",
     "author_id": 136897416,
@@ -6419,7 +6403,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-acgnshow:nonebot_plugin_acgnshow": {
     "module_name": "nonebot_plugin_acgnshow",
     "project_link": "nonebot-plugin-acgnshow",
     "author_id": 60691961,
@@ -6431,56 +6415,56 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-runagain:nonebot_plugin_runagain": {
     "module_name": "nonebot_plugin_runagain",
     "project_link": "nonebot-plugin-runagain",
     "author_id": 37037264,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wordle-simple:nonebot_plugin_wordle_simple": {
     "module_name": "nonebot_plugin_wordle_simple",
     "project_link": "nonebot-plugin-wordle-simple",
     "author_id": 59602626,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-daily-oil-price:nonebot_plugin_daily_oil_price": {
     "module_name": "nonebot_plugin_daily_oil_price",
     "project_link": "nonebot-plugin-daily-oil-price",
     "author_id": 16321862,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-game-torrent:nonebot_plugin_game_torrent": {
     "module_name": "nonebot_plugin_game_torrent",
     "project_link": "nonebot-plugin-game-torrent",
     "author_id": 106718176,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-weiweibot:nonebot_plugin_weiweibot": {
     "module_name": "nonebot_plugin_weiweibot",
     "project_link": "nonebot-plugin-weiweibot",
     "author_id": 85827122,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-autopush:nonebot_plugin_autopush": {
     "module_name": "nonebot_plugin_autopush",
     "project_link": "nonebot-plugin-autopush",
     "author_id": 104149371,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-exe-code:nonebot_plugin_exe_code": {
     "module_name": "nonebot_plugin_exe_code",
     "project_link": "nonebot-plugin-exe-code",
     "author_id": 69091901,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-system-command:nonebot_plugin_system_command": {
     "module_name": "nonebot_plugin_system_command",
     "project_link": "nonebot-plugin-system-command",
     "author_id": 107618388,
@@ -6496,7 +6480,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-cogvideox:nonebot_plugin_cogvideox": {
     "module_name": "nonebot_plugin_cogvideox",
     "project_link": "nonebot-plugin-cogvideox",
     "author_id": 16055526,
@@ -6512,7 +6496,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gpt-sovits:nonebot_plugin_gpt_sovits": {
     "module_name": "nonebot_plugin_gpt_sovits",
     "project_link": "nonebot-plugin-gpt-sovits",
     "author_id": 55650833,
@@ -6524,7 +6508,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wakatime:nonebot_plugin_wakatime": {
     "module_name": "nonebot_plugin_wakatime",
     "project_link": "nonebot-plugin-wakatime",
     "author_id": 110453675,
@@ -6536,7 +6520,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-sunoai:nonebot_plugin_sunoai": {
     "module_name": "nonebot_plugin_sunoai",
     "project_link": "nonebot-plugin-sunoai",
     "author_id": 149048350,
@@ -6552,14 +6536,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-function:nonebot_plugin_function": {
     "module_name": "nonebot_plugin_function",
     "project_link": "nonebot-plugin-function",
     "author_id": 114509415,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-web-bottle:nonebot_plugin_web_bottle": {
     "module_name": "nonebot_plugin_web_bottle",
     "project_link": "nonebot-plugin-web-bottle",
     "author_id": 107746729,
@@ -6575,21 +6559,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-deer-pipe:nonebot_plugin_deer_pipe": {
     "module_name": "nonebot_plugin_deer_pipe",
     "project_link": "nonebot-plugin-deer-pipe",
     "author_id": 49141130,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-alist:nonebot_plugin_alist": {
     "module_name": "nonebot_plugin_alist",
     "project_link": "nonebot-plugin-alist",
     "author_id": 52738183,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-bili-fav-watcher:nonebot_plugin_bili_fav_watcher": {
     "module_name": "nonebot_plugin_bili_fav_watcher",
     "project_link": "nonebot-plugin-bili-fav-watcher",
     "author_id": 94740235,
@@ -6601,14 +6585,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-essence-message:nonebot_plugin_essence_message": {
     "module_name": "nonebot_plugin_essence_message",
     "project_link": "nonebot-plugin-essence-message",
     "author_id": 57578111,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ba-tools:nonebot_plugin_ba_tools": {
     "module_name": "nonebot_plugin_ba_tools",
     "project_link": "nonebot-plugin-ba-tools",
     "author_id": 144128876,
@@ -6620,7 +6604,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-fakepic:nonebot_plugin_fakepic": {
     "module_name": "nonebot_plugin_fakepic",
     "project_link": "nonebot-plugin-fakepic",
     "author_id": 170833701,
@@ -6632,7 +6616,7 @@
     ],
     "is_official": false
   },
-  {
+  "pokepoke-miss:pokepoke_miss": {
     "module_name": "pokepoke_miss",
     "project_link": "pokepoke-miss",
     "author_id": 140364698,
@@ -6648,7 +6632,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ehentai-search:nonebot_plugin_ehentai_search": {
     "module_name": "nonebot_plugin_ehentai_search",
     "project_link": "nonebot-plugin-ehentai-search",
     "author_id": 61854722,
@@ -6660,7 +6644,7 @@
     ],
     "is_official": false
   },
-  {
+  "mai2_pcount:mai2_pcount": {
     "module_name": "mai2_pcount",
     "project_link": "mai2_pcount",
     "author_id": 140364698,
@@ -6676,7 +6660,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-dify:nonebot_plugin_dify": {
     "module_name": "nonebot_plugin_dify",
     "project_link": "nonebot-plugin-dify",
     "author_id": 1080807,
@@ -6692,14 +6676,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-looklike:nonebot_plugin_looklike": {
     "module_name": "nonebot_plugin_looklike",
     "project_link": "nonebot-plugin-looklike",
     "author_id": 107618388,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-wait-a-minute:nonebot_plugin_wait_a_minute": {
     "module_name": "nonebot_plugin_wait_a_minute",
     "project_link": "nonebot-plugin-wait-a-minute",
     "author_id": 51957264,
@@ -6711,14 +6695,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-repesix:nonebot_plugin_repesix": {
     "module_name": "nonebot_plugin_repesix",
     "project_link": "nonebot-plugin-repesix",
     "author_id": 107618388,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-liteyukibot:nonebot_plugin_liteyukibot": {
     "module_name": "nonebot_plugin_liteyukibot",
     "project_link": "nonebot-plugin-liteyukibot",
     "author_id": 79104275,
@@ -6734,7 +6718,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot_plugin_mute:nonebot_plugin_mute": {
     "module_name": "nonebot_plugin_mute",
     "project_link": "nonebot_plugin_mute",
     "author_id": 140364698,
@@ -6750,7 +6734,7 @@
     ],
     "is_official": false
   },
-  {
+  "nekro-agent:nekro_agent": {
     "module_name": "nekro_agent",
     "project_link": "nekro-agent",
     "author_id": 57167362,
@@ -6766,7 +6750,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot_plugin_lagrange:nonebot_plugin_lagrange": {
     "module_name": "nonebot_plugin_lagrange",
     "project_link": "nonebot_plugin_lagrange",
     "author_id": 90964775,
@@ -6778,7 +6762,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-mccheck:nonebot_plugin_mccheck": {
     "module_name": "nonebot_plugin_mccheck",
     "project_link": "nonebot-plugin-mccheck",
     "author_id": 104612722,
@@ -6794,7 +6778,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-lxns-maimai:nonebot_plugin_lxns_maimai": {
     "module_name": "nonebot_plugin_lxns_maimai",
     "project_link": "nonebot-plugin-lxns-maimai",
     "author_id": 110453675,
@@ -6806,14 +6790,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-sendpic:nonebot_plugin_sendpic": {
     "module_name": "nonebot_plugin_sendpic",
     "project_link": "nonebot-plugin-sendpic",
     "author_id": 162463571,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-llob-master:nonebot_plugin_llob_master": {
     "module_name": "nonebot_plugin_llob_master",
     "project_link": "nonebot-plugin-llob-master",
     "author_id": 121220148,
@@ -6829,7 +6813,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-yoyogame:nonebot_plugin_yoyogame": {
     "module_name": "nonebot_plugin_yoyogame",
     "project_link": "nonebot-plugin-yoyogame",
     "author_id": 91937041,
@@ -6845,7 +6829,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-tea-silencer:nonebot_plugin_tea_silencer": {
     "module_name": "nonebot_plugin_tea_silencer",
     "project_link": "nonebot-plugin-tea-silencer",
     "author_id": 99666950,
@@ -6861,7 +6845,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-avalon:nonebot_plugin_avalon": {
     "module_name": "nonebot_plugin_avalon",
     "project_link": "nonebot-plugin-avalon",
     "author_id": 49141130,
@@ -6873,7 +6857,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-werewolf:nonebot_plugin_werewolf": {
     "module_name": "nonebot_plugin_werewolf",
     "project_link": "nonebot-plugin-werewolf",
     "author_id": 69091901,
@@ -6889,7 +6873,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-tarina-lang-turbo:nonebot_plugin_tarina_lang_turbo": {
     "module_name": "nonebot_plugin_tarina_lang_turbo",
     "project_link": "nonebot-plugin-tarina-lang-turbo",
     "author_id": 51957264,
@@ -6901,7 +6885,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-ACGalaxy:nonebot-plugin-ACGalaxy": {
     "module_name": "nonebot-plugin-ACGalaxy",
     "project_link": "nonebot-plugin-ACGalaxy",
     "author_id": 77649130,
@@ -6917,7 +6901,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-QRrender:nonebot_plugin_QRrender": {
     "module_name": "nonebot_plugin_QRrender",
     "project_link": "nonebot-plugin-QRrender",
     "author_id": 162463571,
@@ -6929,7 +6913,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-weather-rank:nonebot_plugin_weather_rank": {
     "module_name": "nonebot_plugin_weather_rank",
     "project_link": "nonebot-plugin-weather-rank",
     "author_id": 144128876,
@@ -6945,7 +6929,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-witff:nonebot_plugin_witff": {
     "module_name": "nonebot_plugin_witff",
     "project_link": "nonebot-plugin-witff",
     "author_id": 131526534,
@@ -6957,7 +6941,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-logstream:nonebot_plugin_logstream": {
     "module_name": "nonebot_plugin_logstream",
     "project_link": "nonebot-plugin-logstream",
     "author_id": 171804402,
@@ -6973,7 +6957,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-uninfo:nonebot_plugin_uninfo": {
     "module_name": "nonebot_plugin_uninfo",
     "project_link": "nonebot-plugin-uninfo",
     "author_id": 42648639,
@@ -6993,7 +6977,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-inspect:nonebot_plugin_inspect": {
     "module_name": "nonebot_plugin_inspect",
     "project_link": "nonebot-plugin-inspect",
     "author_id": 42648639,
@@ -7005,21 +6989,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-batch-withdrawal:nonebot_plugin_batch_withdrawal": {
     "module_name": "nonebot_plugin_batch_withdrawal",
     "project_link": "nonebot-plugin-batch-withdrawal",
     "author_id": 114509415,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-yareminder:nonebot_plugin_yareminder": {
     "module_name": "nonebot_plugin_yareminder",
     "project_link": "nonebot-plugin-yareminder",
     "author_id": 88876404,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-calc-game:nonebot_plugin_calc_game": {
     "module_name": "nonebot_plugin_calc_game",
     "project_link": "nonebot-plugin-calc-game",
     "author_id": 143202058,
@@ -7031,21 +7015,21 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-fun-content:nonebot_plugin_fun_content": {
     "module_name": "nonebot_plugin_fun_content",
     "project_link": "nonebot-plugin-fun-content",
     "author_id": 119806180,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-pjsk-helper:nonebot_plugin_pjsk_helper": {
     "module_name": "nonebot_plugin_pjsk_helper",
     "project_link": "nonebot-plugin-pjsk-helper",
     "author_id": 140572469,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-color-see-see:nonebot_plugin_color_see_see": {
     "module_name": "nonebot_plugin_color_see_see",
     "project_link": "nonebot-plugin-color-see-see",
     "author_id": 80870777,
@@ -7057,14 +7041,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-githubmodels:nonebot_plugin_githubmodels": {
     "module_name": "nonebot_plugin_githubmodels",
     "project_link": "nonebot-plugin-githubmodels",
     "author_id": 122811297,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-beatsaberscore:nonebot_plugin_beatsaberscore": {
     "module_name": "nonebot_plugin_beatsaberscore",
     "project_link": "nonebot-plugin-beatsaberscore",
     "author_id": 172130062,
@@ -7076,7 +7060,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-SimpleToWrite:nonebot_plugin_SimpleToWrite": {
     "module_name": "nonebot_plugin_SimpleToWrite",
     "project_link": "nonebot-plugin-SimpleToWrite",
     "author_id": 174641131,
@@ -7092,7 +7076,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-nonechat:nonebot_plugin_nonechat": {
     "module_name": "nonebot_plugin_nonechat",
     "project_link": "nonebot-plugin-nonechat",
     "author_id": 144128876,
@@ -7104,7 +7088,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-marshoai:nonebot_plugin_marshoai": {
     "module_name": "nonebot_plugin_marshoai",
     "project_link": "nonebot-plugin-marshoai",
     "author_id": 60691961,
@@ -7120,7 +7104,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-osu-match-monitor:nonebot_plugin_osu_match_monitor": {
     "module_name": "nonebot_plugin_osu_match_monitor",
     "project_link": "nonebot-plugin-osu-match-monitor",
     "author_id": 65720409,
@@ -7132,7 +7116,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-lolinfo:nonebot_plugin_lolinfo": {
     "module_name": "nonebot_plugin_lolinfo",
     "project_link": "nonebot-plugin-lolinfo",
     "author_id": 112923496,
@@ -7148,7 +7132,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot_plugin_bf5_grouptools:nonebot_plugin_bf5_grouptools": {
     "module_name": "nonebot_plugin_bf5_grouptools",
     "project_link": "nonebot_plugin_bf5_grouptools",
     "author_id": 90964775,
@@ -7160,7 +7144,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot_plugin_mc_watcher:nonebot_plugin_mc_watcher": {
     "module_name": "nonebot_plugin_mc_watcher",
     "project_link": "nonebot_plugin_mc_watcher",
     "author_id": 90964775,
@@ -7172,7 +7156,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-zxpm:nonebot_plugin_zxpm": {
     "module_name": "nonebot_plugin_zxpm",
     "project_link": "nonebot-plugin-zxpm",
     "author_id": 45528451,
@@ -7192,7 +7176,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-lingyi-chat:nonebot_plugin_lingyi_chat": {
     "module_name": "nonebot_plugin_lingyi_chat",
     "project_link": "nonebot-plugin-lingyi-chat",
     "author_id": 149694986,
@@ -7208,7 +7192,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot_plugin_bfvsearch:nonebot_plugin_bfvsearch": {
     "module_name": "nonebot_plugin_bfvsearch",
     "project_link": "nonebot_plugin_bfvsearch",
     "author_id": 166974448,
@@ -7220,7 +7204,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-safer18:nonebot_plugin_safeR18": {
     "module_name": "nonebot_plugin_safeR18",
     "project_link": "nonebot-plugin-safer18",
     "author_id": 91937041,
@@ -7236,7 +7220,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-updater:nonebot_plugin_updater": {
     "module_name": "nonebot_plugin_updater",
     "project_link": "nonebot-plugin-updater",
     "author_id": 144128876,
@@ -7248,7 +7232,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-npu:nonebot_plugin_npu": {
     "module_name": "nonebot_plugin_npu",
     "project_link": "nonebot-plugin-npu",
     "author_id": 91271243,
@@ -7260,7 +7244,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-running-state:nonebot_plugin_running_state": {
     "module_name": "nonebot_plugin_running_state",
     "project_link": "nonebot-plugin-running-state",
     "author_id": 114509415,
@@ -7272,7 +7256,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-zxreport:nonebot_plugin_zxreport": {
     "module_name": "nonebot_plugin_zxreport",
     "project_link": "nonebot-plugin-zxreport",
     "author_id": 45528451,
@@ -7292,14 +7276,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-buy:nonebot_plugin_buy": {
     "module_name": "nonebot_plugin_buy",
     "project_link": "nonebot-plugin-buy",
     "author_id": 93068569,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-nailongremove:nonebot_plugin_nailongremove": {
     "module_name": "nonebot_plugin_nailongremove",
     "project_link": "nonebot-plugin-nailongremove",
     "author_id": 137168144,
@@ -7311,7 +7295,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-pmhelp:nonebot_plugin_pmhelp": {
     "module_name": "nonebot_plugin_pmhelp",
     "project_link": "nonebot-plugin-pmhelp",
     "author_id": 110460087,
@@ -7323,14 +7307,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-jtj:nonebot_plugin_jtj": {
     "module_name": "nonebot_plugin_jtj",
     "project_link": "nonebot-plugin-jtj",
     "author_id": 93068569,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot_plugin_BR:nonebot_plugin_BR": {
     "module_name": "nonebot_plugin_BR",
     "project_link": "nonebot_plugin_BR",
     "author_id": 70925546,
@@ -7342,7 +7326,7 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-boom:nonebot_plugin_boom": {
     "module_name": "nonebot_plugin_boom",
     "project_link": "nonebot-plugin-boom",
     "author_id": 149694986,
@@ -7354,14 +7338,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-picsetu:nonebot_plugin_picsetu": {
     "module_name": "nonebot_plugin_picsetu",
     "project_link": "nonebot-plugin-picsetu",
     "author_id": 114509415,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-gotify:nonebot_plugin_gotify": {
     "module_name": "nonebot_plugin_gotify",
     "project_link": "nonebot-plugin-gotify",
     "author_id": 79104275,
@@ -7377,14 +7361,14 @@
     ],
     "is_official": false
   },
-  {
+  "nonebot-plugin-voicemusic:nonebot_plugin_voicemusic": {
     "module_name": "nonebot_plugin_voicemusic",
     "project_link": "nonebot-plugin-voicemusic",
     "author_id": 93068569,
     "tags": [],
     "is_official": false
   },
-  {
+  "nonebot-plugin-fishspeech-tts:nonebot_plugin_fishspeech_tts": {
     "module_name": "nonebot_plugin_fishspeech_tts",
     "project_link": "nonebot-plugin-fishspeech-tts",
     "author_id": 106718176,
@@ -7400,4 +7384,4 @@
     ],
     "is_official": false
   }
-]
+}
