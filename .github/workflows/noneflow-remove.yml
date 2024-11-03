@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     name: noneflow
     env:
-      remove-repo: nonebot/noneflow-test
+      store-repo: nonebot/noneflow-test
       registry-repo: nonebot/noneflow-test
     steps:
       - name: Generate token
@@ -32,7 +32,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          repository: ${{ env.remove-repo }}
+          repository: ${{ env.store-repo }}
           token: ${{ steps.generate-token.outputs.token }}
 
       - name: Cache pre-commit hooks
@@ -51,7 +51,7 @@ jobs:
               "bot_path": "assets/bots.json",
               "adapter_path": "assets/adapters.json",
               "registry_repository": ${{ env.registry-repo }}
-              "remove_repository": ${{ env.remove-repo }}
+              "store_repository": ${{ env.store-repo }}
             }
         env:
           APP_ID: ${{ secrets.APP_ID }}

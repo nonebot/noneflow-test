@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     name: noneflow
     env:
-      remove-repo: nonebot/noneflow-test
+      store-repo: nonebot/noneflow-test
       registry-repo: nonebot/noneflow-test
     steps:
       - name: Generate token
@@ -49,7 +49,7 @@ jobs:
               "bot_path": "assets/bots.json",
               "adapter_path": "assets/adapters.json",
               "registry_repository": ${{ env.registry-repo }}
-              "remove_repository": ${{ env.remove-repo }}
+              "store_repository": ${{ env.store-repo }}
             }
         env:
           APP_ID: ${{ secrets.APP_ID }}
