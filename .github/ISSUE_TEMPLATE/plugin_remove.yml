@@ -1,6 +1,6 @@
-name: 移除插件
+name: 移除插件或适配器
 title: "Plugin: remove {name}"
-description: 将插件从 NoneBot 官方商店下架
+description: 将插件或适配器从 NoneBot 官方商店下架
 labels: ["Plugin", "Remove"]
 body:
   - type: input
@@ -15,8 +15,8 @@ body:
   - type: input
     id: module
     attributes:
-      label: 插件 import 包名
-      description: 插件 import 包名
+      label: import 包名
+      description: import 包名
       placeholder: e.g. nonebot_plugin_xxx
     validations:
       required: true
