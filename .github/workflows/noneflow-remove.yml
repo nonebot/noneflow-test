@@ -50,8 +50,8 @@ jobs:
               "plugin_path": "assets/plugins.json",
               "bot_path": "assets/bots.json",
               "adapter_path": "assets/adapters.json",
-              "registry_repository": ${{ env.registry-repo }},
-              "store_repository": ${{ env.store-repo }}
+              "registry_repository": "${{ env.registry-repo }}",
+              "store_repository": "${{ env.store-repo }}"
             }
         env:
           APP_ID: ${{ secrets.APP_ID }}
