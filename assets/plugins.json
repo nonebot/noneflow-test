@@ -2801,6 +2801,18 @@
     "is_official": false
   },
   {
+    "module_name": "nonebot_plugin_acm_reminder",
+    "project_link": "nonebot-plugin-acm-reminder",
+    "author_id": 63897047,
+    "tags": [
+      {
+        "label": "ACM",
+        "color": "#3b8b74"
+      }
+    ],
+    "is_official": false
+  },
+  {
     "module_name": "nonebot_plugin_maimai",
     "project_link": "nonebot-plugin-maimai",
     "author_id": 70925546,
