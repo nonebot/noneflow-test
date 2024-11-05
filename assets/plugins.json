@@ -2443,22 +2443,6 @@
     "is_official": false
   },
   {
-    "module_name": "nonebot_plugin_orangedice",
-    "project_link": "nonebot-plugin-orangedice",
-    "author_id": 63897047,
-    "tags": [
-      {
-        "label": "dice",
-        "color": "#08c0bb"
-      },
-      {
-        "label": "COC",
-        "color": "#a2bc0c"
-      }
-    ],
-    "is_official": false
-  },
-  {
     "module_name": "nonebot_plugin_record",
     "project_link": "nonebot-plugin-record",
     "author_id": 104713034,
