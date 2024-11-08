@@ -36,7 +36,7 @@ body:
     attributes:
       label: 插件配置项
       description: 插件配置项
-      render: Dotenv
+      render: python
       placeholder: |
         # e.g.
         # KEY=VALUE
