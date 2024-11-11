@@ -7387,5 +7387,17 @@
       }
     ],
     "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_pam",
+    "project_link": "nonebot-plugin-pam",
+    "author_id": 63897047,
+    "tags": [
+      {
+        "label": "rule",
+        "color": "#ea5252"
+      }
+    ],
+    "is_official": false
   }
 ]
