@@ -45,9 +45,9 @@ jobs:
           config: >
             {
               "base": "master",
-              "plugin_path": "assets/plugins.json",
-              "bot_path": "assets/bots.json",
-              "adapter_path": "assets/adapters.json",
+              "plugin_path": "assets/plugins.json5",
+              "bot_path": "assets/bots.json5",
+              "adapter_path": "assets/adapters.json5",
               "registry_repository": "${{ env.registry-repo }}",
               "store_repository": "${{ env.store-repo }}"
             }
