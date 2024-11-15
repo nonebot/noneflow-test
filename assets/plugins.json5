@@ -7388,4 +7388,20 @@
     ],
     "is_official": false
   },
+  {
+    "module_name": "nonebot-plugin-auto-sendlike",
+    "project_link": "nonebot-plugin-auto-sendlike",
+    "author_id": 63897047,
+    "tags": [
+      {
+        "label": "点赞",
+        "color": "#ea5252"
+      },
+      {
+        "label": "自动化",
+        "color": "#de7c7d"
+      }
+    ],
+    "is_official": false
+  },
 ]
