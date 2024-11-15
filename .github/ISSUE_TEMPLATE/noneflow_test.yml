@@ -1,0 +1,20 @@
+name: Noneflow 测试任务列表
+title: "Noneflow Test Task List"
+description: 测试 Noneflow 的任务清单
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 发布流程
+        - [ ] 发布插件成功测试
+        - [ ] 发布插件失败测试
+        - [ ] 发布多个插件合并情况测试
+        - [ ] 发布适配器测试
+        - [ ] 发布机器人测试
+        #### 删除流程
+        - [ ] 删除插件成功测试
+        - [ ] 删除插件失败测试
+        - [ ] 删除多个插件合并情况测试
+        - [ ] 删除适配器测试
+        - [ ] 删除机器人测试
