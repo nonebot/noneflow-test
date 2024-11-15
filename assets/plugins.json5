@@ -7388,4 +7388,11 @@
     ],
     "is_official": false
   },
+  {
+    "module_name": "nonebot_plugin_text_ban",
+    "project_link": "nonebot-plugin-text-ban",
+    "author_id": 63897047,
+    "tags": [],
+    "is_official": false
+  },
 ]
