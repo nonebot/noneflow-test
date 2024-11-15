@@ -56,6 +56,8 @@ jobs:
           PRIVATE_KEY: ${{ secrets.APP_KEY }}
           PRE_COMMIT_HOME: /github/workspace/.cache/.pre-commit
           DOCKER_IMAGES_VERSION: main
+          STORE_BASE_URL: "https://raw.githubusercontent.com/nonebot/noneflow-test/master/assets"
+          REGISTRY_BASE_URL: "https://raw.githubusercontent.com/nonebot/noneflow-test/results"
 
       - name: Fix permission
         run: sudo chown -R $(whoami):$(id -ng) .cache/.pre-commit
