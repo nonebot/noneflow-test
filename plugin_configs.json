@@ -589,5 +589,6 @@
   "nekro-agent:nekro_agent": "",
   "nonebot_plugin_lagrange:nonebot_plugin_lagrange": "\nLAGRANGE_PATH='Lagrange'\r\nLAGRANGE_AUTO_START=true\r\nLAGRANGE_AUTO_INSTALL=true\r\nLAGRANGE_MAX_CACHE_LOG=500\r\n",
   "nonebot-plugin-mccheck:nonebot_plugin_mccheck": "",
-  "nonebot-plugin-lxns-maimai:nonebot_plugin_lxns_maimai": ""
+  "nonebot-plugin-lxns-maimai:nonebot_plugin_lxns_maimai": "",
+  "nonebot-plugin-nailongremove:nonebot_plugin_nailongremove": ""
 }
