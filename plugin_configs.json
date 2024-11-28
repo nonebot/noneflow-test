@@ -142,7 +142,7 @@
   "nonebot-plugin-moegoe:nonebot_plugin_moegoe": "",
   "nonebot-plugin-pixivbot:nonebot_plugin_pixivbot": "",
   "nonebot-plugin-workscore:nonebot_plugin_workscore": "",
-  "nonebot-plugin-treehelp:nonebot_plugin_treehelp": "",
+  "nonebot-plugin-treehelp:nonebot_plugin_treehelp": "test=config",
   "nonebot-plugin-cqsat:cqsat": "",
   "nonebot-plugin-course:nonebot_plugin_course": "",
   "nonebot-plugin-dialectlist:nonebot_plugin_dialectlist": "",
