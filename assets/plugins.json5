@@ -7395,4 +7395,11 @@
     "tags": [],
     "is_official": false
   },
+  {
+    "module_name": "nonebot_plugin_zxwb",
+    "project_link": "nonebot-plugin-zxwb",
+    "author_id": 5219550,
+    "tags": [],
+    "is_official": false
+  },
 ]
