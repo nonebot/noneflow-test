@@ -1,0 +1,63 @@
+name: NoneFlow
+
+on:
+  issues:
+    types: [opened, reopened, edited]
+  pull_request_target:
+    types: [closed]
+  issue_comment:
+    types: [created]
+  pull_request_review:
+    types: [submitted]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.issue.number || github.run_id }}
+
+jobs:
+  noneflow:
+    runs-on: ubuntu-latest
+    name: noneflow
+    env:
+      store-repo: nonebot/noneflow-test
+      registry-repo: nonebot/noneflow-test
+    steps:
+      - name: Generate token
+        id: generate-token
+        uses: tibdex/github-app-token@v2
+        with:
+          app_id: ${{ secrets.APP_ID }}
+          private_key: ${{ secrets.APP_KEY }}
+
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ steps.generate-token.outputs.token }}
+
+      - name: Cache pre-commit hooks
+        uses: actions/cache@v4
+        with:
+          path: .cache/.pre-commit
+          key: noneflow-${{ runner.os }}-${{ hashFiles('.pre-commit-config.yaml') }}
+
+      - name: NoneFlow
+        uses: docker://ghcr.io/nonebot/noneflow:main
+        with:
+          config: >
+            {
+              "base": "master",
+              "plugin_path": "assets/plugins.json5",
+              "bot_path": "assets/bots.json5",
+              "adapter_path": "assets/adapters.json5",
+              "registry_repository": "${{ env.registry-repo }}",
+              "store_repository": "${{ env.store-repo }}"
+            }
+        env:
+          APP_ID: ${{ secrets.APP_ID }}
+          PRIVATE_KEY: ${{ secrets.APP_KEY }}
+          PRE_COMMIT_HOME: /github/workspace/.cache/.pre-commit
+          DOCKER_IMAGES_VERSION: main
+          STORE_BASE_URL: "https://raw.githubusercontent.com/nonebot/noneflow-test/master/assets"
+          REGISTRY_BASE_URL: "https://raw.githubusercontent.com/nonebot/noneflow-test/results"
+
+      - name: Fix permission
+        run: sudo chown -R $(whoami):$(id -ng) .cache/.pre-commit
