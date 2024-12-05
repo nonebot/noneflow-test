@@ -28,7 +28,7 @@ jobs:
           token: ${{ steps.generate-token.outputs.token }}
 
       - name: NoneFlow
-        uses: docker://ghcr.io/nonebot/noneflow:latest
+        uses: docker://ghcr.io/nonebot/noneflow:main
         with:
           config: >
             {
