@@ -52,3 +52,9 @@ jobs:
           DOCKER_IMAGES_VERSION: main
           STORE_BASE_URL: "https://raw.githubusercontent.com/nonebot/noneflow-test/master/assets"
           REGISTRY_BASE_URL: "https://raw.githubusercontent.com/nonebot/noneflow-test/results"
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: noneflow
+          path: artifact/*
