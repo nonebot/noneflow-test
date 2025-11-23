@@ -7409,4 +7409,16 @@
     "tags": [],
     "is_official": false
   },
+  {
+    "module_name": "nonebot_plugin_manosoba_reply_generator",
+    "project_link": "nonebot-plugin-manosoba-reply-generator",
+    "author_id": 5219550,
+    "tags": [
+      {
+        "label": "func",
+        "color": "#ea5252"
+      }
+    ],
+    "is_official": false
+  },
 ]
