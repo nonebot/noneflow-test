@@ -30,10 +30,8 @@ jobs:
 
       - name: Checkout Code
         uses: actions/checkout@v6
-
-      - name: Setup credentials to access github using app-token
-        run: |
-          git config url."https://x-access-token:${{ steps.app-token.outputs.token }}@github.com/".insteadOf https://github.com/
+        with:
+          token: ${{ steps.app-token.outputs.token }}
 
       - name: NoneFlow
         uses: docker://ghcr.io/nonebot/noneflow:main
