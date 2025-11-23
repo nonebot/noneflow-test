@@ -34,7 +34,7 @@ jobs:
       DOCKER_IMAGES_VERSION: main
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: nonebot/noneflow
           fetch-depth: 0
@@ -76,7 +76,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: results
 
@@ -104,7 +104,7 @@ jobs:
   #     statuses: write
   #   steps:
   #     - name: Checkout
-  #       uses: actions/checkout@v4
+  #       uses: actions/checkout@v6
   #       with:
   #         ref: main
 
